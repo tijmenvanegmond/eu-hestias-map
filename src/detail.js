@@ -22,7 +22,7 @@ export function renderDetail(alpha3, countryData, hestias, standings) {
     const reason = reasons[h.key];
     const reasonHtml = reason ? `<span class="hestia-reason">${reason}</span>` : '';
     return `
-      <div class="hestia-item${reason ? ' has-reason' : ''}">
+      <div class="hestia-item">
         <span class="hestia-mark ${markClass}">${mark}</span>
         <span class="hestia-name">${h.label}</span>
         ${reasonHtml}
