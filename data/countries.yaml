@@ -515,5 +515,10 @@ DZA:
 ISR:
   name: Israel
   standing: strategic
-  note: Tech cooperation; could be Outer Union Associate alternatively
+  note: >-
+    Strategic Partner status suspended pending ICJ proceedings and compliance
+    with international humanitarian law. Tech and research cooperation (Horizon
+    Europe, bilateral science agreements) remains formally in place but under
+    review. All Hestia participation set to zero — no active fires until
+    conditions for re-engagement are met.
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 0, spring: 0, anchor: 0, lyre: 0, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
