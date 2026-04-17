@@ -576,6 +576,7 @@ h1 {
 
 .detail-aspirant {
   display: inline-block;
+  margin-left: 1em;
   padding: 3px 10px;
   border-radius: 4px;
   font-size: 11px;
