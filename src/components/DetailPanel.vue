@@ -31,6 +31,13 @@ const aspirantLabel = computed(() => {
   return country.value.aspirant === 'member' ? 'Aspiring Member' : 'Aspiring Inner Associate';
 });
 
+const populationLabel = computed(() => {
+  if (!country.value?.population) return null;
+  const p = country.value.population;
+  if (p >= 1) return `${p.toFixed(1)}m`;
+  return `${Math.round(p * 1000).toLocaleString()}k`;
+});
+
 const hestiaItems = computed(() => {
   if (!country.value) return [];
   const reasons = country.value.reasons ?? {};
@@ -74,6 +81,7 @@ watch([() => state.selectedCountry, () => state.selectedNonFramework], () => {
       <div class="detail-name">{{ country.name }}</div>
       <div class="detail-standing" :class="standing.className">{{ standing.label }}</div>
       <div v-if="aspirantLabel" class="detail-aspirant">{{ aspirantLabel }}</div>
+      <div v-if="populationLabel" class="detail-population">Pop. {{ populationLabel }}</div>
       <div class="detail-note">{{ country.note }}</div>
       <div class="hestia-list">
         <div v-for="h in hestiaItems" :key="h.key" class="hestia-item">

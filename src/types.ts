@@ -19,6 +19,7 @@ export type StandingKey = 'member' | 'inner-assoc' | 'outer-assoc' | 'strategic'
 export interface CountryData {
   name: string;
   standing: StandingKey;
+  population: number;
   note: string;
   hestias: Record<string, number>;
   reasons?: Record<string, string>;
