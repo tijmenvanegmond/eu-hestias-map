@@ -16,7 +16,6 @@ const currentHestia = computed<Hestia | null>(() => {
 
 <template>
   <div class="hestia-bar">
-    <div class="hestia-bar-label">Tap a fire to see who tends it</div>
     <div class="hestia-buttons">
       <button
         class="hestia-btn standings"
