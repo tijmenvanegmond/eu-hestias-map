@@ -65,7 +65,7 @@ ITA:
   name: Italy
   standing: member
   note: Founding Member, full participation
-  hestias: { fiscal: 1, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 1, forge: 1, library: 1, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 1, beacon: 1, lattice: 1 }
+  hestias: { fiscal: 1, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 1, forge: 1, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 1, beacon: 1, lattice: 1 }
   reasons:
     anchor: Longest Mediterranean coastline among Members; dominant central Mediterranean naval position.
     forge: Northern industrial triangle — Lombardy, Piedmont, Veneto — is Europe's second manufacturing heartland.
@@ -75,7 +75,7 @@ ESP:
   name: Spain
   standing: member
   note: Full participation
-  hestias: { fiscal: 1, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 1, forge: 1, library: 1, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 1, beacon: 1, lattice: 1 }
+  hestias: { fiscal: 1, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 1, forge: 1, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 1, beacon: 1, lattice: 1 }
   reasons:
     spring: Semi-arid south limits transboundary river scope; domestic water stress is the main challenge.
     anchor: Major Mediterranean and Atlantic coastline; naval tradition.
@@ -84,7 +84,7 @@ PRT:
   name: Portugal
   standing: member
   note: Full participation
-  hestias: { fiscal: 1, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 1, forge: 0, library: 1, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 1, lattice: 0 }
+  hestias: { fiscal: 1, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 1, forge: 0, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 1, lattice: 0 }
   reasons:
     atlas: Participates in ESA but smaller contribution than core funders.
     forge: Limited heavy industrial base; economy oriented toward services and tourism.
@@ -162,7 +162,7 @@ SVN:
   name: Slovenia
   standing: member
   note: Full participation
-  hestias: { fiscal: 1, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 0, forge: 1, library: 1, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 1, lattice: 0 }
+  hestias: { fiscal: 1, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 0, forge: 1, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 1, lattice: 0 }
   reasons:
     anchor: Small but strategic Adriatic coastline — Koper is a key central European port.
     spring: Alpine headwaters; Sava and Drava basins — upstream role gives outsized water influence.
@@ -171,7 +171,7 @@ HRV:
   name: Croatia
   standing: member
   note: Most recent Eurozone joiner
-  hestias: { fiscal: 1, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 0, forge: 0, library: 1, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 1, lattice: 0 }
+  hestias: { fiscal: 1, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 0, forge: 0, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 1, lattice: 0 }
   reasons:
     fiscal: Joined the euro in 2023 — most recent Eurozone entrant.
     atlas: No ESA membership; limited space sector.
@@ -384,10 +384,10 @@ UKR:
     War-shaped accelerated path; transitioning to Member. Crimea and parts of
     eastern Ukraine remain under Russian occupation — the Charter recognises
     Ukraine's internationally recognised borders.
-  hestias: { fiscal: 0, shield: 1, gate: 1, loom: 0, green: 0, bench: 0, atlas: 1, forge: 1, library: 1, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
+  hestias: { fiscal: 0, shield: 1, gate: 1, loom: 0, green: 0, bench: 0, atlas: 1, forge: 1, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
   reasons:
     shield: Full participant — frontline state; de facto security guarantees via bilateral agreements.
-    atlas: Major agricultural exporter — breadbasket of Europe; grain corridor vital for global food security.
+    atlas: Soviet space legacy — Baikonur cosmodrome role; Antonov aerospace heritage; ESA cooperation.
     green: Non-participant — war has devastated energy infrastructure; reconstruction prioritised over transition.
     spring: Dnipro basin and Black Sea watershed; major transboundary water role.
     anchor: Black Sea and Azov Sea coastline; wartime naval significance.
@@ -399,7 +399,7 @@ MDA:
   standing: outer-assoc
   aspirant: iua
   note: Eastern Partnership; on Member track
-  hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 1, spring: 1, anchor: 0, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
+  hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 1, spring: 0, anchor: 0, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
   reasons:
     spring: Prut and Dniester rivers — transboundary water cooperation is the main integration vector.
     bench: Partial — Association Agreement includes judicial reform obligations.
@@ -434,7 +434,6 @@ MKD:
 SRB:
   name: Serbia
   standing: outer-assoc
-  aspirant: iua
   note: Russia alignment complicates the path
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 1, spring: 1, anchor: 0, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
   reasons:
@@ -447,7 +446,7 @@ BIH:
   standing: outer-assoc
   aspirant: iua
   note: Constitutional reform precondition
-  hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 0, spring: 1, anchor: 0, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
+  hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 0, spring: 0, anchor: 0, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
   reasons:
     spring: Partial — Sava basin cooperation; Neretva watershed.
     lyre: Partial — Sarajevo cultural tradition and Ottoman-Austro-Hungarian heritage.
@@ -542,3 +541,51 @@ AZE:
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 0, spring: 0, anchor: 0, lyre: 0, krone: 0, pharmacy: 0, beacon: 0, lattice: 1 }
   reasons:
     lattice: Full participant — Southern Gas Corridor (TAP/TANAP) supplies Caspian gas to the EU grid.
+
+# --- Non-European partners ---
+
+USA:
+  name: United States
+  standing: strategic
+  note: >-
+    Transatlantic strategic partner. Deep bilateral relationship through NATO
+    and trade frameworks, but no Hestia participation — the US engages through
+    its own structures rather than submitting to Union-level governance.
+  hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 0, spring: 0, anchor: 0, lyre: 0, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
+
+CAN:
+  name: Canada
+  standing: outer-assoc
+  note: >-
+    Transatlantic outer associate. CETA framework deepened into structured
+    partnership covering defence, Arctic cooperation, and research.
+  hestias: { fiscal: 0, shield: 1, gate: 0, loom: 0, green: 1, bench: 0, atlas: 1, forge: 1, library: 1, spring: 0, anchor: 1, lyre: 0, krone: 0, pharmacy: 1, beacon: 1, lattice: 0 }
+  reasons:
+    shield: Full participant — NATO member; NORAD and Arctic defence cooperation.
+    green: Full participant — aligned climate targets; carbon pricing.
+    atlas: Full participant — CSA-ESA cooperation; Canadarm tradition.
+    forge: Full participant — critical minerals (nickel, lithium, cobalt) supply chain partner.
+    library: Full participant — Commonwealth and Francophonie academic exchange.
+    anchor: Full participant — Arctic maritime and Atlantic coast guard cooperation.
+    pharmacy: Full participant — joint procurement and regulatory alignment.
+    beacon: Full participant — Horizon-associated; strong university research ties.
+
+JPN:
+  name: Japan
+  standing: strategic
+  note: >-
+    Indo-Pacific strategic partner. EU-Japan EPA provides the trade framework.
+    Engages bilaterally rather than through Hestia governance.
+  hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 0, spring: 0, anchor: 0, lyre: 0, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
+
+KOR:
+  name: South Korea
+  standing: strategic
+  note: >-
+    Indo-Pacific strategic partner. Major industrial and technology cooperation
+    in semiconductors, batteries, and digital governance.
+  hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 1, library: 0, spring: 0, anchor: 1, lyre: 0, krone: 0, pharmacy: 0, beacon: 1, lattice: 0 }
+  reasons:
+    forge: Full participant — semiconductor (Samsung, SK Hynix) and battery (LG, Samsung SDI) supply chains.
+    anchor: Full participant — major shipbuilding nation; Indo-Pacific maritime cooperation.
+    beacon: Full participant — Horizon-associated; strong R&D investment.
