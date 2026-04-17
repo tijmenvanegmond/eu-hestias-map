@@ -31,7 +31,7 @@ All Members share the single market, free movement, fundamental rights, and rule
 
 Deeper cooperation happens in voluntary domains — currency, defence, climate, digital policy, judicial cooperation. States join by choice, pay to join, govern what they join, and can leave. No country is "more European" for joining more.
 
-Each Hestia is governed by a Council of the participating states' ministers, seated in a permanent city — its Hestia Capital. The Fiscal Hestia meets in one city; the Green Hestia in another; the Defence Hestia in another. Integration has an address. Ministers are accountable. Citizens know where to look.
+Each Hestia is governed by a Council of the participating states' ministers, anchored in a permanent seat — its Hestia Capital. The Fiscal Hestia meets in one place; the Green Hestia in another; the Defence Hestia in another. Most Capitals are cities; where the domain warrants, the founding compact may instead designate a vessel or a rotating seat. What is locked is the arrangement, not always the location. Integration has an address. Ministers are accountable. Citizens know where to look.
 
 ### Inner Union Associates
 

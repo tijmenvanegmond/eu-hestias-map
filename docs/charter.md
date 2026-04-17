@@ -147,7 +147,7 @@ Each Hestia is governed by a Hestia Council — a domain-specific executive body
 
 **Legislative Initiative.** The Hestia Council may propose legislation to the Modular Parliament within its compact-defined domain. Every proposal must be reviewed by the Independent Legislative Classification Body (VII.1) before debate opens. If the proposal touches an Assembly-Locked Domain (I.10), it is returned to the Council as ultra vires. Parliament retains full power to amend, adopt, or reject any Council proposal. A Council proposal that is rejected may not be resubmitted in substantially identical form within twelve months.
 
-**The Hestia Capital.** The founding members designate a permanent seat — the Hestia Capital — at the time of establishment. The Capital hosts the Council's primary sessions and administrative functions. It may not be relocated except by unanimous consent of all current participants.
+**The Hestia Capital.** The founding members designate a Hestia Capital at the time of establishment. The Capital hosts the Council's primary sessions and administrative functions. The Capital ordinarily takes the form of a fixed city, but where the character of the Hestia warrants, the founding compact may instead designate a vessel, a rotating seat among named cities, or another arrangement that reflects the Hestia's domain. The form of the Capital, once established, may not be altered except by unanimous consent of all current participants.
 
 **Accountability.** The Hestia Council reports to the Modular Parliament configuration for its domain. Parliament may censure the Council by majority vote of participants. Individual ministers remain accountable to their own national parliaments under their national constitutional arrangements.
 

@@ -34,11 +34,26 @@ A Hestia is not a sub-EU. It does not legislate independently — it proposes, t
 
 ## §2 — Why Hestia Capitals?
 
-Each Hestia has a permanent seat — a city designated by its founding members, unmovable except by unanimous consent. This is not a ceremonial detail.
+Each Hestia has a Capital — a permanent arrangement designated by its founding members, alterable only by unanimous consent. This is not a ceremonial detail.
 
 Integration without an address has no face. Citizens who cannot point to where a Hestia is governed cannot demand accountability from it. The Capital makes a domain of policy into a place: ministers travel there, decisions are made there, journalists cover what happens there. Over time, each Capital develops the kind of civic gravity Brussels has for the Union as a whole — without concentrating it all in one city.
 
-The rigidity is intentional. Movable capitals become bargaining chips: states threaten to relocate them in exchange for political favours. The Charter forecloses that bargain.
+### What Counts as a Capital
+
+VI.2 ordinarily expects a fixed city, and most Hestias choose one. Frankfurt for the Fiscal Hearth. The Hague for the Bench. Tallinn for the Loom. The reasons are usually obvious: existing institutional gravity, geographic centrality, historical association with the domain.
+
+But the Charter recognises that some Hestias resist a fixed-city seat without losing the principle the Capital is meant to serve. The founding compact may instead designate:
+
+- **A vessel** — for the Anchor (maritime cooperation), whose Capital is the flagship *Stella Maris*. A maritime Hestia anchored to a single coastal city would privilege that coast over every other; a flagship circulating between participating ports expresses the truth that the sea belongs to no one capital.
+- **A rotating seat** — for the Lyre (cultural heritage), whose Capital travels each year to that year's European Capital of Culture. Anchoring culture to a single city would be a category error: European heritage is plural, and the Hestia that protects it should be too.
+
+What is locked at founding is not necessarily a fixed point on a map. It is **the arrangement** — the form the Capital takes, whether that is a city, a ship, or a rotation. Once chosen, the form cannot be altered except by unanimous consent of all current participants.
+
+### Why the Lock Matters
+
+Movable arrangements without a lock become bargaining chips: states threaten to host or withhold hosting in exchange for political favours; Hestias that have not yet chosen find themselves auctioning the seat to the highest bidder; participants who lose hosting battles develop grudges that outlast the decisions. The Charter forecloses these bargains by requiring the form to be settled at founding and the lock to be broken only by everyone together.
+
+The lock is what distinguishes a *constitutional* capital from a *contingent* one. The Lyre's Capital changes every year — but the *rotation rule* does not. The Anchor's Capital is at sea — but the principle that it is a vessel cannot be quietly traded away in a side deal. What citizens can rely on is not that the Council always meets in the same city, but that the way the Council chooses where to meet is itself beyond ordinary politics.
 
 ---
 
@@ -82,9 +97,17 @@ Spillover concerns are handled through the External Reach machinery (Title VII),
 
 VI.9 contains the Charter's most uncomfortable provision: the **Promotion Override**. If the European Parliament wants to elevate a Hestia rule to the Assembly Baseline (binding all Members, not just participants), and the Assembly of Member States refuses, Parliament may override that refusal with a three-quarters supermajority — provided that a concurrent majority of national parliaments also approves.
 
-A Member that refuses the promoted rule does not lose Membership. It steps back to **Inner Union Associate** status, keeping free movement, single-market access, citizen rights, and Hestia participation in domains it has joined. What it loses is its vote in the Assembly and its representation in the Parliament's Baseline configuration.
+A Member that refuses the promoted rule does not lose Membership. It steps back to **Inner Union Associate** status. The trade is precise — and worth naming exactly:
 
-This is a real demotion of voice. The Charter is explicit about this because pretending otherwise would be its most attackable feature.
+| What the stepped-back state **loses** | What it **keeps** |
+|---|---|
+| Voting rights in the Assembly of Member States | Free movement throughout the Inner Union |
+| Representation in the European Parliament's Baseline configuration | Single-market access and programme participation |
+| The right to propose or participate in future Promotion procedures | Direct constitutional rights for its citizens |
+| | Hestia participation through the Modular Parliament for every domain it has already joined |
+| | The right to reapply for Membership at any time |
+
+This is a real demotion of voice, not the end of the relationship. The Charter is explicit about this because pretending otherwise would be its most attackable feature. A citizen of a stepped-back state still travels freely, works abroad, accesses Erasmus, sells into the single market, and votes in their Hestias. What changes is that their state's government no longer sits at the Assembly table on Baseline questions.
 
 The Override is constrained by four locks:
 
@@ -115,7 +138,15 @@ Five hard limits then apply:
 
 The hard time limit is the most important. Every constitutional system that allows indefinite emergency powers has watched those powers become permanent. The Charter makes the limit absolute.
 
-The post-crisis ratification clause has a useful side effect: a Commission contemplating unusual action during Emergency Mode must ask not only "is this legal under the declaration?" but "will Parliament and Assembly endorse this once the crisis has passed?" Actions that seem necessary in the heat of a moment often look different in calm reflection. The clause forces that reflection.
+### The Ratification Brake
+
+The post-crisis ratification requirement deserves to be understood on its own. It is the Charter's quietest constraint and possibly its most important.
+
+A Commission acting during Emergency Mode is not asked merely "is this action legal under the declaration?" It must ask a second question: **"will Parliament and Assembly endorse this six months from now, when the crisis has passed and the cameras are off?"** Because if the answer to the second question is no, the action is null retroactively — undone, with whatever administrative chaos that implies, and with the legal liability that follows.
+
+This pulls the calm-reflection-after that every constitutional scholar wishes for *into* the heat of the moment. A minister asked to authorise an unusual measure in week two of a crisis is forced to imagine themselves in week thirty-two, justifying it to a deliberative legislature in peacetime. Many measures that look defensible in week two do not survive that imagination.
+
+The mechanism is psychological as much as legal. It does not prevent emergency action — the Charter wants emergency action to be possible. It prevents emergency *over*-action, by giving every actor a forward-looking reason to restrain themselves. Constitutional history is the history of crisis powers used because they were *available*. The Ratification Brake makes availability conditional on a future judgement, and that conditionality bites in the present.
 
 Either body can end Emergency Mode unilaterally by simple majority at any time. **Starting an emergency requires extraordinary consensus; ending one requires only ordinary consensus.** This asymmetry is deliberate.
 
@@ -127,13 +158,25 @@ The Charter establishes four independent bodies (XI.2): the Independent Review C
 
 The Charter cannot pretend these are merely technical decisions. The **Triple Key** system gives them enough independence to make hard calls and enough accountability to remain legitimate.
 
+### How the Three Keys Work Together
+
 Every appointment requires three concurrent keys:
 
 - **European Parliament** — two-thirds supermajority
 - **Assembly of Member States** — two-thirds by both state count and population
 - **Court of Justice** — confirmation of Charter compatibility
 
-No appointment is valid without all three. This is deliberately more demanding than the current Commission appointment process. The slow pace (six months minimum) is also deliberate: speed invites political pressure on appointments.
+No appointment is valid without all three. This is deliberately more demanding than the current Commission appointment process, which needs only two keys (Council nomination plus Parliament confirmation). The higher bar means any successful candidate has genuine cross-institutional credibility rather than being the compromise candidate of a single coalition.
+
+The keys are not redundant — each checks something different. **Parliament** asks whether the candidate has democratic legitimacy and whether their record is publicly defensible. **The Assembly** asks whether they will be trusted by the governments whose decisions they may have to police. **The Court** asks the narrowest question: are they eligible under the Charter, and is their selection procedurally clean? A Court that confirms is not endorsing — it is certifying that nothing about the appointment is unconstitutional.
+
+If one key withholds, the appointment fails and the process restarts. This sounds inefficient, and it is. **Speed would invite political pressure on appointments**, which is precisely the failure mode the Triple Key exists to prevent. The six-month minimum is a feature: candidates have time to be vetted, the public has time to react, and short-term political fevers have time to break.
+
+### Why Non-Renewable Terms
+
+A renewable term creates a reappointment incentive. A body member approaching the end of a renewable term has reason to please those who would reappoint them, and that reason corrupts the independence the Triple Key was designed to create. **Non-renewable terms remove the incentive entirely.** A body member knows on day one that there is no second term to earn — the only audience for their decisions is the legal record and their own conscience.
+
+Seven-to-eight-year terms are long enough to outlast most political cycles and short enough that no member becomes a permanent fixture. **Staggering** the vacancies — so that no more than a fraction of any body's seats turn over in any single year — means that no political moment, however dramatic, can capture an entire body. A landslide election or a constitutional crisis might shape one or two appointments; it cannot remake a watchdog overnight.
 
 Once appointed, members serve **non-renewable seven-to-eight-year terms**, staggered so no single political moment captures an entire body. They cannot hold concurrent government, party, or commercial positions, and face a three-year cooling-off period after tenure. They can be removed only for cause — incapacity, gross misconduct, or eligibility breach — never for the substance of their decisions, and only by three-quarters of Parliament *and* Assembly *and* the Court.
 
