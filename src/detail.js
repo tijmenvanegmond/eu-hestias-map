@@ -1,21 +1,3 @@
-const NON_EU_NOTES = {
-  "Russia": "Outside the Charter framework. Cooperation suspended following the invasion of Ukraine.",
-  "Belarus": "Outside the Charter framework. Cooperation suspended due to authoritarian governance and complicity in the invasion of Ukraine.",
-  "Azerbaijan": "Outside the Charter framework. Energy cooperation exists bilaterally but no formal standing.",
-  "Egypt": "Outside the Charter framework. Could be mapped as Outer Union Associate or Strategic Partner in future.",
-  "Libya": "Outside the Charter framework. Stabilisation remains a precondition for any structured relationship.",
-  "Syria": "Outside the Charter framework.",
-  "Lebanon": "Outside the Charter framework. Mediterranean partnership possible once domestic stability allows.",
-  "Jordan": "Outside the Charter framework. Could be mapped as Strategic Partner.",
-  "Iraq": "Outside the Charter framework.",
-  "Iran": "Outside the Charter framework.",
-  "Saudi Arabia": "Outside the Charter framework.",
-  "Andorra": "Outside the Charter framework. Micro-state with deep EU integration — natural candidate for Inner Union Associate.",
-  "Monaco": "Outside the Charter framework. Micro-state with deep French integration — natural candidate for Inner Union Associate.",
-  "San Marino": "Outside the Charter framework. Micro-state with deep Italian integration — natural candidate for Inner Union Associate.",
-  "Vatican City": "Outside the Charter framework.",
-};
-
 export function selectCountry(alpha3, state, countryData) {
   state.selectedCountry = alpha3;
 }
@@ -58,14 +40,17 @@ export function renderDetail(alpha3, countryData, hestias, standings) {
   setTimeout(() => panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' }), 100);
 }
 
-export function renderNonFrameworkDetail(name) {
+export function renderNonFrameworkDetail(name, nonFramework) {
   const panel = document.getElementById('detail-panel');
   if (!name) {
     panel.innerHTML = '<div class="detail-empty">Tap a country to see its standing and which fires it tends.</div>';
     return;
   }
 
-  const note = NON_EU_NOTES[name] || 'Outside the Charter framework. No current standing as Member, Associate, or Strategic Partner.';
+  const extra = nonFramework[name];
+  const note = extra
+    ? `Outside the Charter framework. ${extra}`
+    : 'Outside the Charter framework. No current standing as Member, Associate, or Strategic Partner.';
 
   panel.innerHTML = `
     <div class="detail-name">${name}</div>

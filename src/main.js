@@ -3,6 +3,7 @@ import countryData from '../data/countries.yaml';
 import hestias from '../data/hestias.yaml';
 import standings from '../data/standings.yaml';
 import isoMappings from '../data/iso-mappings.yaml';
+import nonFramework from '../data/non-framework.yaml';
 
 import { drawMap } from './map.js';
 import { applyView, renderLegend, setupHestiaButtons } from './view.js';
@@ -30,7 +31,7 @@ function handleCountrySelect(alpha3) {
 function handleNonFrameworkSelect(name) {
   state.selectedCountry = null;
   refresh();
-  renderNonFrameworkDetail(name);
+  renderNonFrameworkDetail(name, nonFramework);
 }
 
 function handleViewChange(view) {

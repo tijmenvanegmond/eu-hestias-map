@@ -1,17 +1,17 @@
 :root {
-  --bg: #f4ede0;
-  --ink: #1a1612;
-  --ember: #c4502a;
-  --ember-glow: #e8794d;
-  --hearth: #8b3a1a;
+  --bg: #edf1f7;
+  --ink: #202b39;
+  --ember: #1446a9;
+  --ember-glow: #4d6fbf;
+  --hearth: #002266;
   --ash: #6b6b6b;
-  --paper: #faf6ed;
-  --shadow: rgba(26, 22, 18, 0.12);
+  --paper: #f5f7fb;
+  --shadow: rgba(18, 24, 32, 0.12);
 
-  --member: #c4502a;
-  --inner-assoc: #d4a574;
+  --member: #2854ab;
+  --inner-assoc: #7494c4;
   --outer-assoc: #8aa68a;
-  --strategic: #6b8aa6;
+  --strategic: #b08d57;
   --non: #d8d4cc;
   --eu-non: #b8b4ac;
 }
@@ -30,8 +30,8 @@ html, body {
 
 body {
   background-image:
-    radial-gradient(ellipse at top, rgba(196, 80, 42, 0.06) 0%, transparent 60%),
-    radial-gradient(ellipse at bottom, rgba(139, 58, 26, 0.04) 0%, transparent 50%);
+    radial-gradient(ellipse at top, rgba(0, 51, 153, 0.06) 0%, transparent 60%),
+    radial-gradient(ellipse at bottom, rgba(0, 34, 102, 0.04) 0%, transparent 50%);
 }
 
 header {
@@ -239,7 +239,7 @@ h1 {
   background: var(--ember);
   border-color: var(--ember);
   color: var(--paper);
-  box-shadow: 0 2px 8px rgba(196, 80, 42, 0.3);
+  box-shadow: 0 2px 8px rgba(0, 51, 153, 0.3);
 }
 
 .hestia-btn.standings {
@@ -459,7 +459,7 @@ h1 {
 }
 
 .mark-full { color: var(--ember); }
-.mark-partial { color: #b8893a; }
+.mark-partial { color: #4d6fbf; }
 .mark-none { color: var(--ash); opacity: 0.5; }
 
 .hestia-name {
