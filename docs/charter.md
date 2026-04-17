@@ -137,7 +137,9 @@ Each Hestia is governed by a Hestia Council — a domain-specific executive body
 
 **Composition.** Each participating state appoints its relevant minister to the Council as of right. Beyond this ministerial core, each Hestia compact may provide for technical delegates, expert advisers, or citizen representatives. Composition beyond the ministerial core is determined by the founding members and may be amended by Council supermajority.
 
-**Role.** The Hestia Council executes legislation passed by the Modular Parliament within its domain. It manages the Hestia budget, oversees compliance with Hestia obligations, and issues implementing regulations within the bounds of Parliament-passed legislation. It does not initiate or pass legislation.
+**Role.** The Hestia Council executes legislation passed by the Modular Parliament within its domain. It manages the Hestia budget, oversees compliance with Hestia obligations, and issues implementing regulations within the bounds of Parliament-passed legislation.
+
+**Legislative Initiative.** The Hestia Council may propose legislation to the Modular Parliament within its compact-defined domain. Every proposal must be reviewed by the Independent Legislative Classification Body (Article 28) before debate opens. If the proposal touches an Assembly-Locked Domain (Article 8), it is returned to the Council as ultra vires. Parliament retains full power to amend, adopt, or reject any Council proposal. A Council proposal that is rejected may not be resubmitted in substantially identical form within twelve months.
 
 **The Hestia Capital.** The founding members designate a permanent seat — the Hestia Capital — at the time of establishment. The Capital hosts the Council's primary sessions and administrative functions. It may not be relocated except by unanimous consent of all current participants.
 
@@ -191,6 +193,8 @@ The cost is named honestly: a Member that refuses pays in democratic voice — l
 **Article 30 — The Suspensive Veto.** External Reach legislation may be paused for review (six months, or thirty days for trade-affecting matters). The Standing Review Body may propose amendments, exemptions, or transition periods. After review, the legislating body may proceed with or without modification.
 
 **Article 31 — Escalation.** Unresolved disputes escalate to a Joint Review Panel, then to a CJEU advisory opinion.
+
+**Article 31A — External Negotiation Mandate.** The Assembly may, by qualified majority, authorise a Hestia Council to negotiate with third countries or international organisations within that Hestia's domain. The authorising mandate must define the negotiating scope, red lines, and reporting obligations. The Hestia Council negotiates on behalf of all participating states and reports progress to the Modular Parliament. Ratification of a negotiated agreement requires co-decision: qualified majority of the Hestia's participating states and qualified majority of the Assembly. Where the agreement has External Reach effects, the Standing Review Body conducts a parallel consultation under Article 29, and affected states across all standings retain the suspensive veto under Article 30. Strategic Partners hold consultation rights throughout the negotiation process. No agreement may override Assembly-Locked Domains (Article 8) or the Inviolable Floor.
 
 ---
 
