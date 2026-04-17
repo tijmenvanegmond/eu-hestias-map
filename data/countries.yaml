@@ -252,22 +252,20 @@ HUN:
 ROU:
   name: Romania
   standing: member
-  note: Schengen partial; otherwise full
-  hestias: { fiscal: 0, shield: 1, gate: 0.5, loom: 1, green: 1, bench: 1, atlas: 0.5, forge: 0.5, library: 1, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 0.5, beacon: 1, lattice: 0.5 }
+  note: Full Schengen since January 2025; eurozone convergence ongoing
+  hestias: { fiscal: 0, shield: 1, gate: 1, loom: 1, green: 1, bench: 1, atlas: 0.5, forge: 0.5, library: 1, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 0.5, beacon: 1, lattice: 0.5 }
   reasons:
     fiscal: Leu retained; convergence programme in progress.
-    gate: Partial Schengen — air borders opened 2024, land borders still blocked by Austrian veto.
     anchor: Black Sea coastline; Constanța is the Union's main Black Sea port.
     spring: Danube delta — unique ecological role and transboundary obligations.
 
 BGR:
   name: Bulgaria
   standing: member
-  note: Eurozone candidate; Schengen partial
-  hestias: { fiscal: 0.5, shield: 1, gate: 0.5, loom: 1, green: 0.5, bench: 1, atlas: 0, forge: 0.5, library: 0.5, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 0.5, beacon: 1, lattice: 0.5 }
+  note: Eurozone candidate; full Schengen since January 2025
+  hestias: { fiscal: 0.5, shield: 1, gate: 1, loom: 1, green: 0.5, bench: 1, atlas: 0, forge: 0.5, library: 0.5, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 0.5, beacon: 1, lattice: 0.5 }
   reasons:
     fiscal: Partial — lev in currency board pegged to the euro; ERM II member, convergence pending.
-    gate: Partial Schengen — same trajectory as Romania; air borders opened, land pending.
     green: Coal-dependent energy sector; just transition ongoing.
     anchor: Black Sea coastline; Burgas and Varna ports.
 
