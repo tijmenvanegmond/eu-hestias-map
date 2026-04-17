@@ -49,6 +49,8 @@ export function applyView(svgEl, currentView, selectedCountry, countryData, stan
 export function renderLegend(currentView, hestias, standings) {
   const titleEl = document.getElementById('legend-title');
   const gridEl = document.getElementById('legend-grid');
+  const descriptionEl = document.getElementById('hestia-description');
+  const descriptionContentEl = document.getElementById('hestia-description-content');
 
   if (currentView === 'standings') {
     titleEl.textContent = 'Standings';
@@ -62,17 +64,28 @@ export function renderLegend(currentView, hestias, standings) {
       <div class="legend-item"><div class="legend-swatch" style="background: var(--eu-non);"></div><div class="legend-text">Outside framework</div></div>
       <div class="legend-item"><div class="legend-swatch" style="background: var(--suspended);"></div><div class="legend-text">Suspended</div></div>
     `;
+    descriptionEl.style.display = 'none';
   } else {
     const hestia = hestias.find(h => h.key === currentView);
     const label = hestia ? hestia.label : currentView;
     const desc = hestia ? hestia.description : '';
     const explanation = hestia ? hestia.explanation : '';
-    titleEl.textContent = label + ' — ' + desc;
+    
+    titleEl.textContent = label;
     gridEl.innerHTML = `
       <div class="legend-item"><div class="legend-swatch" style="background: var(--ember);"></div><div class="legend-text">Full participant</div></div>
       <div class="legend-item"><div class="legend-swatch" style="background: var(--non); opacity: 0.5;"></div><div class="legend-text">Non-participant</div></div>
-      ${explanation ? `<div class="legend-explanation">${explanation}</div>` : ''}
     `;
+    
+    if (desc || explanation) {
+      descriptionContentEl.innerHTML = `
+        ${desc ? `<div class="hestia-description-title">${desc}</div>` : ''}
+        ${explanation ? `<div class="hestia-description-text">${explanation}</div>` : ''}
+      `;
+      descriptionEl.style.display = 'block';
+    } else {
+      descriptionEl.style.display = 'none';
+    }
   }
 }
 

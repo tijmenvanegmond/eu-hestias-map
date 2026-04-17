@@ -39,6 +39,8 @@ header {
   text-align: center;
   padding: 28px 20px 16px;
   border-bottom: 1px solid rgba(26, 22, 18, 0.1);
+  box-shadow: 0 2px 8px var(--shadow);
+  background: var(--paper);
 }
 
 h1 {
@@ -103,6 +105,8 @@ h1 {
   padding: 32px 20px 60px;
   background: var(--paper);
   line-height: 1.7;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px var(--shadow);
 }
 
 .document h1 {
@@ -156,6 +160,9 @@ h1 {
   padding: 8px 16px;
   color: var(--ash);
   font-style: italic;
+  background: rgba(20, 70, 169, 0.03);
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(18, 24, 32, 0.08);
 }
 
 .document strong {
@@ -205,7 +212,7 @@ h1 {
   font-size: 14px;
   font-weight: 500;
   cursor: pointer;
-  border-radius: 2px;
+  border-radius: 6px;
   transition: all 0.2s ease;
   min-height: 52px;
   display: flex;
@@ -214,6 +221,7 @@ h1 {
   justify-content: center;
   text-align: center;
   line-height: 1.15;
+  box-shadow: 0 1px 3px rgba(18, 24, 32, 0.08);
 }
 
 .hestia-btn .btn-name {
@@ -240,7 +248,7 @@ h1 {
   background: var(--ember);
   border-color: var(--ember);
   color: var(--paper);
-  box-shadow: 0 2px 8px rgba(0, 51, 153, 0.3);
+  box-shadow: 0 3px 12px rgba(0, 51, 153, 0.35);
 }
 
 .hestia-btn.standings {
@@ -255,12 +263,39 @@ h1 {
   font-style: normal;
 }
 
+/* Hestia description */
+.hestia-description {
+  background-color: var(--paper);
+  padding: 16px 18px;
+  border-bottom: 1px solid rgba(26, 22, 18, 0.08);
+  background: var(--paper);
+  box-shadow: 0 2px 6px var(--shadow);
+}
+
+.hestia-description-title {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--hearth);
+  margin-bottom: 8px;
+  text-align: center;
+  letter-spacing: 0.01em;
+}
+
+.hestia-description-text {
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--ink);
+  text-align: center;
+  font-style: italic;
+}
+
 /* Map */
 .map-container {
   position: relative;
   width: 100%;
   background: var(--paper);
   overflow: hidden;
+  box-shadow: inset 0 2px 6px rgba(18, 24, 32, 0.06);
 }
 
 #map-svg {
@@ -318,6 +353,7 @@ h1 {
   gap: 8px;
   border-top: 1px solid rgba(26, 22, 18, 0.08);
   border-bottom: 1px solid rgba(26, 22, 18, 0.08);
+  box-shadow: 0 2px 6px var(--shadow);
 }
 
 .legend-title {
@@ -346,9 +382,10 @@ h1 {
 .legend-swatch {
   width: 18px;
   height: 18px;
-  border-radius: 3px;
+  border-radius: 4px;
   border: 1px solid rgba(26, 22, 18, 0.2);
   flex-shrink: 0;
+  box-shadow: 0 1px 2px rgba(18, 24, 32, 0.1);
 }
 
 .legend-swatch-aspirant-iua {
@@ -390,6 +427,7 @@ h1 {
   padding: 20px 18px;
   border-top: 2px solid var(--ember);
   min-height: 200px;
+  box-shadow: 0 -2px 8px rgba(18, 24, 32, 0.08);
 }
 
 .detail-empty {
@@ -411,7 +449,7 @@ h1 {
 .detail-standing {
   display: inline-block;
   padding: 4px 10px;
-  border-radius: 2px;
+  border-radius: 4px;
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -419,12 +457,13 @@ h1 {
   font-family: 'Iowan Old Style', Georgia, serif;
   color: var(--paper);
   font-weight: 600;
+  box-shadow: 0 1px 3px rgba(18, 24, 32, 0.2);
 }
 
 .detail-aspirant {
   display: inline-block;
   padding: 3px 10px;
-  border-radius: 2px;
+  border-radius: 4px;
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -440,6 +479,7 @@ h1 {
   );
   border: 1px solid rgba(40, 84, 171, 0.3);
   margin-bottom: 10px;
+  box-shadow: 0 1px 2px rgba(18, 24, 32, 0.1);
 }
 
 .standing-member { background: var(--member); }
@@ -470,9 +510,10 @@ h1 {
   gap: 8px;
   padding: 6px 10px;
   background: rgba(26, 22, 18, 0.03);
-  border-radius: 2px;
+  border-radius: 6px;
   font-size: 14px;
   flex-wrap: wrap;
+  box-shadow: 0 1px 2px rgba(18, 24, 32, 0.06);
 }
 
 .hestia-reason {
