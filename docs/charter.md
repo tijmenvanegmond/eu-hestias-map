@@ -1,7 +1,7 @@
 # Hearthwork EU Charter
 ### A Constitutional Charter for a Living European Union
 
-**Twelfth Draft**
+**Thirteenth Draft**
 
 ---
 
@@ -32,6 +32,8 @@ hereby establish this Charter as the foundation of a European Union composed of 
 **Article 2 — Binding Rule Principle.** No actor shall be bound without procedural voice. Voice scales with obligation and exposure.
 
 **Article 3 — Transparency.** All rights, obligations, and participations shall be codified in a public Union Register.
+**Article 3A — Annual State of the Union Report.** The Commission, in coordination with the Hestia Councils and the Independent Review Commission, shall publish an annual report showing: (a) all active Hestias, their participating states, and Fiscal Key status; (b) key decisions adopted and their assessed impacts; (c) a compliance and participation assessment for each Hestia, using a published rating methodology. The report is presented to Parliament and made available to citizens through the Union Register.
+**Article 11A — Citizen Initiative for Hestia Review.** One million citizens of participating states in a Hestia, drawn from at least one-quarter of those states, may petition for a formal review of any Hestia decision in force. The petition is verified by the Independent Review Commission. Upon certification, the Modular Parliament must schedule a review debate within six months. Parliament may affirm, amend, or repeal the decision by ordinary legislative procedure.
 
 **Article 4 — Voluntary Union.** All standings include lawful pathways to deepen, step back, or exit.
 
@@ -137,6 +139,8 @@ Each Hestia is governed by a Hestia Council — a domain-specific executive body
 
 **Composition.** Each participating state appoints its relevant minister to the Council as of right. Beyond this ministerial core, each Hestia compact may provide for technical delegates, expert advisers, or citizen representatives. Composition beyond the ministerial core is determined by the founding members and may be amended by Council supermajority.
 
+**Presidency.** The Hestia Council is chaired on a rotating basis by participating states, in order of accession to the Hestia, for terms of no more than twelve months. The Presidency sets the Council agenda, chairs sessions, and mediates procedural disputes. No state may hold the Presidency of the same Hestia for consecutive terms.
+
 **Role.** The Hestia Council executes legislation passed by the Modular Parliament within its domain. It manages the Hestia budget, oversees compliance with Hestia obligations, and issues implementing regulations within the bounds of Parliament-passed legislation.
 
 **Legislative Initiative.** The Hestia Council may propose legislation to the Modular Parliament within its compact-defined domain. Every proposal must be reviewed by the Independent Legislative Classification Body (Article 28) before debate opens. If the proposal touches an Assembly-Locked Domain (Article 8), it is returned to the Council as ultra vires. Parliament retains full power to amend, adopt, or reject any Council proposal. A Council proposal that is rejected may not be resubmitted in substantially identical form within twelve months.
@@ -144,6 +148,12 @@ Each Hestia is governed by a Hestia Council — a domain-specific executive body
 **The Hestia Capital.** The founding members designate a permanent seat — the Hestia Capital — at the time of establishment. The Capital hosts the Council's primary sessions and administrative functions. It may not be relocated except by unanimous consent of all current participants.
 
 **Accountability.** The Hestia Council reports to the Modular Parliament configuration for its domain. Parliament may censure the Council by majority vote of participants. Individual ministers remain accountable to their own national parliaments under their national constitutional arrangements.
+
+**Public Documentation.** Each Hestia Council shall maintain in the Union Register: (a) a plain-language summary of its purpose, participation criteria, and decision-making procedures, not exceeding two pages; (b) a current list of participating states; and (c) a decision-making flowchart showing how legislation is proposed, debated, and adopted within its domain. These documents are updated within thirty days of any material change.
+
+## Article 22B — Hestia Citizen Panels
+
+Each Hestia Council shall convene a Citizen Panel before any legislative proposal is submitted to the Modular Parliament. The Panel comprises no fewer than fifty citizens, selected by sortition from participating states in proportion to population, serving a single non-renewable term of eighteen months. The Panel reviews the proposal, publishes a written assessment of its anticipated impacts, and presents recommendations to the Council. The Council must respond in writing to Panel recommendations before the proposal proceeds. Panel assessments are published in the Union Register.
 
 ---
 
@@ -154,15 +164,17 @@ Voting rights in any Hestia require Fiscal Key payment.
 1. **No subscription, no vote.**
 2. **Calculation** based on GDP and domain exposure, certified by the Independent Review Commission.
 3. **Light-Out Clause** — non-payment suspends voting rights after a sixty-day cure period. Sustained non-payment triggers withdrawal.
-4. **Ring-Fencing** — each Hestia budget is isolated. Suspension in one does not affect others.
+4. **Force Majeure** — a state experiencing a documented constitutional crisis, natural disaster, or acute economic emergency (as certified by the Independent Review Commission) may request suspension of the Light-Out Clause for up to twelve months. The request must be supported by evidence and is subject to CJEU expedited review. During the suspension, the state retains consultation rights but not voting rights. The Force Majeure suspension may be renewed once for a further six months; beyond that, the Light-Out Clause resumes automatically.
+5. **Ring-Fencing** — each Hestia budget is isolated. Suspension in one does not affect others.
 
 **Article 24 — Anti-Dominance Rule.** The double majority of Article 19 is the structural safeguard against dominance: no coalition can carry a Hestia decision without both a majority of states and a majority of the participating population. Hestia compacts may set higher thresholds for specified categories of decision, but may not lower them.
 
-## Article 25 — Joining, Stepping Back, and Removal
+## Article 25 — Joining, Stepping Back, Removal, and Dissolution
 
 - **Joining:** Any state satisfying published criteria may apply. Assessed by the Independent Review Commission.
 - **Withdrawal:** Formal notification plus transition period (12 months minimum, 5 years maximum for currency/defence). No penalty.
 - **Removal:** 75% supermajority of fellow participants, on grounds of systematic Compact violation, with independent assessment, formal hearing, and full CJEU appeal rights.
+- **Dissolution:** A Hestia is automatically dissolved when its participating states fall below either three in number or five percent of the Union's total population, whichever threshold is breached first. The Independent Review Commission certifies the threshold breach and initiates an orderly wind-down period of no more than twelve months, during which existing obligations are honoured and legislation in force is transitioned to the Assembly Baseline or repealed. Remaining participants retain all rights under their standing.
 
 ## Article 26 — Conflict Resolution Between Hestias
 
@@ -172,11 +184,21 @@ Voting rights in any Hestia require Fiscal Key payment.
 
 Trade-affecting conflicts are expedited (ninety-day decisions). The state caught between fires may invoke conflict suspension on the contested obligation without penalty.
 
+## Article 26A — Baseline-Hestia Conflict Resolution
+
+Where a Hestia rule in force is found to conflict with the Assembly Baseline — whether through subsequent Baseline legislation, Promotion under Article 27, or referral by a participating state — the following procedure applies:
+
+1. The Independent Legislative Classification Body certifies the conflict and publishes its analysis.
+2. A Conflict Mediation Panel, comprising one CJEU-appointed jurist, one citizen representative from the affected Hestia's Citizen Panel, and one technical expert from the ILCB, is convened within thirty days.
+3. The Panel issues a binding recommendation within ninety days.
+4. The Assembly may override the Hestia rule only by a three-quarters supermajority of both state count and population. The Hestia may amend its rule to resolve the conflict by ordinary Council procedure.
+5. Pending resolution, the contested Hestia obligation is suspended for affected states without penalty.
+
 ## Article 27 — Promotion to the Assembly Baseline
 
 1. **Parliamentary Initiative** — two-thirds supermajority, with sortition panel advice
 2. **Co-decision** — qualified majority approval by the Assembly
-3. **Override** — if the Assembly rejects, Parliament may override by three-quarters supermajority
+3. **Override** — if the Assembly rejects, Parliament may override by three-quarters supermajority, provided that a concurrent majority of national parliaments of participating states (counted by both state count and aggregate population) also approve the promotion. This double legitimacy requirement ensures that no Hestia rule is elevated to Assembly Baseline without both supranational and national democratic consent.
 4. **Transition** — three to seven years for non-participating Members to align
 5. **The Choice** — non-aligned Members may step back to Inner Union Associate status
 
@@ -188,9 +210,13 @@ The cost is named honestly: a Member that refuses pays in democratic voice — l
 
 **Article 28 — Classification.** Legislation is classified by the Independent Legislative Classification Body as Assembly, Hestia, or External Reach. Legislation that operates as a global standard through regulatory gravity is presumed External Reach unless demonstrated otherwise.
 
+**Article 28A — Regulatory Gravity.** Regulatory gravity exists when a Hestia rule, by virtue of market scale, technical standardisation, or supply-chain integration, creates de facto compliance pressure on non-participating states or their economic actors. The Legislative Classification Body shall apply published quantitative and qualitative indicators — including market-share thresholds, cross-border dependency ratios, and compliance-cost assessments — when determining whether regulatory gravity is present. The methodology and indicators shall be reviewed by the Constitutional Convention at each regular session.
+
+**Article 28B — The Adjustment Fund.** Where legislation is classified as External Reach, the legislating Hestia shall establish an Adjustment Fund, financed from the Hestia's own Fiscal Key revenues, to compensate non-participating states for documented compliance costs, market-access barriers, or transition burdens arising from regulatory gravity. Claims are assessed by the Independent Review Commission. Disbursements require a majority decision of the Standing Review Body. The Fund does not confer voting rights on recipient states.
+
 **Article 29 — The Standing Review Body.** Handles consultation and suspensive veto procedures on External Reach legislation. Affected states across all standings hold consultation rights.
 
-**Article 30 — The Suspensive Veto.** External Reach legislation may be paused for review (six months, or thirty days for trade-affecting matters). The Standing Review Body may propose amendments, exemptions, or transition periods. After review, the legislating body may proceed with or without modification.
+**Article 30 — The Suspensive Veto.** External Reach legislation may be paused for review (six months, or thirty days for trade-affecting matters). The Standing Review Body may propose amendments, exemptions, transition periods, or Adjustment Fund allocations under Article 28B. After review, the legislating body may proceed with or without modification.
 
 **Article 31 — Escalation.** Unresolved disputes escalate to a Joint Review Panel, then to a CJEU advisory opinion.
 
@@ -268,6 +294,31 @@ Four independent bodies: the Independent Review Commission, the Legislative Clas
 | **Removal** | Only for cause (incapacity, misconduct, eligibility breach) — never for the substance of decisions. Three-quarters of Parliament + Assembly + Court approval |
 | **Transparency** | All decisions published with reasoning; dissents published; deliberation summaries after 5-year delay |
 
+**Public Confirmation.** Before appointment, each candidate for an independent body shall appear in a public hearing before the relevant Parliament committee and answer questions from Members of Parliament and citizen delegates. Hearing transcripts are published in the Union Register. No appointment may proceed until the hearing is complete.
+
+## Article 40A — The Independent Legislative Classification Body
+
+The Legislative Classification Body (ILCB) is the independent authority responsible for classifying all proposed legislation as Assembly Baseline, Hestia, or External Reach. Its determinations define the boundaries of each Hestia's legislative competence and trigger the procedural safeguards of Title VII.
+
+**Composition.** The ILCB comprises nine members:
+
+- Three jurists appointed from nominees of the CJEU, with expertise in Union constitutional and regulatory law
+- Three domain specialists nominated by the Constitutional Convention, drawn from academia, regulatory practice, or international trade law — no two from the same state
+- Three former national parliamentarians or constitutional court judges, nominated jointly by national parliaments — no two from the same state
+
+Members serve non-renewable eight-year terms, staggered so that three seats are filled every thirty-two months. No member may have held elected office, a government position, or a lobbying role within five years of appointment. The Triple Key (Article 40) governs appointment and removal.
+
+**Methodology.** The ILCB classifies legislation using a published, codified methodology that applies the following sequential tests:
+
+1. **Domain Test** — does the subject matter fall within an Assembly-Locked Domain (Article 8)? If yes, the legislation is classified as Assembly Baseline regardless of its origin.
+2. **Compact Scope Test** — does the subject matter fall within the compact-defined domain of the proposing Hestia? If no, the proposal is returned as ultra vires.
+3. **Regulatory Gravity Test** — applying the indicators of Article 28A, does the proposed legislation create de facto compliance pressure beyond participating states? If yes, the legislation is classified as External Reach and the procedural safeguards of Articles 29–31 apply.
+4. **Overlap Test** — does the subject matter intersect with another Hestia's domain? If yes, the ILCB identifies the overlap and, if necessary, initiates the conflict resolution procedure of Article 26.
+
+**Decisions.** All classifications are published with full written reasoning. Any participating state, Hestia Council, or the Commission may challenge a classification through expedited CJEU review. Dissenting opinions are published. The ILCB may issue advisory opinions on classification questions referred by Parliament, the Assembly, or any Hestia Council.
+
+**Periodic Review.** The ILCB shall publish, at least every three years, a consolidated review of its classification methodology, incorporating case outcomes, CJEU rulings, and evolving regulatory conditions. The Constitutional Convention reviews the methodology at each regular session and may recommend amendments by qualified majority.
+
 ## Article 41 — The Constitutional Convention
 
 Standing body: Parliament delegates, national parliament delegates (two per Member, one per IUA), citizen delegates by sortition, Hestia representatives. Meets every five years; extraordinary session by petition of 30% of Members or Parliament majority.
@@ -300,4 +351,4 @@ This procedure is itself constitutionally protected.
 
 *From many nations, one union was forged. From that one union, many fires now burn — each lit by choice, each tended by those who gather around it.*
 
-*Twelfth Draft — April 2026*
+*Thirteenth Draft — April 2026*

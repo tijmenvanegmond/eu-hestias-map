@@ -1,5 +1,5 @@
 # Commentary on the Hearthwork EU Charter
-### Interpretive Companion to the Twelfth Draft
+### Interpretive Companion to the Thirteenth Draft
 
 *This commentary unpacks the articles where the Charter's brevity most needs explanation. It has no constitutional force — think of it as the Federalist Papers to the Charter's Constitution. Where the Charter is silent, the Commentary cannot speak. Where it is ambiguous, the Commentary offers the best reading, but the CJEU has the final word.*
 
@@ -121,7 +121,7 @@ A Commission contemplating unusual action during Emergency Mode must consider no
 
 *Articles 16, 17, and 19*
 
-Earlier drafts of the Charter carried a weighted franchise — decimal voting weights derived from a formula of legal obligation, fiscal contribution, and regulatory exposure. The Twelfth Draft removes it. This Part explains why.
+Earlier drafts of the Charter carried a weighted franchise — decimal voting weights derived from a formula of legal obligation, fiscal contribution, and regulatory exposure. The Thirteenth Draft removes it. This Part explains why.
 
 ### Why Weighted Voting Was Rejected
 
@@ -194,4 +194,4 @@ This Commentary is itself a draft. Like the Charter, it will evolve through use 
 
 *From many nations, one Union. From one Union, many fires. From choice, legitimacy.*
 
-*Lean Commentary on the Twelfth Draft — April 2026*
+*Lean Commentary on the Thirteenth Draft — April 2026*
