@@ -1,4 +1,4 @@
-# Manifesto for a Europe of Hestias
+# Hearthwork EU Manifesto
 ## A Union of Choice, Not Compulsion
 
 ---

@@ -1,6 +1,6 @@
-# An EU of Hestias
+# Hearthwork EU
 
-An interactive map visualizing the **European Hearth Charter** — a conceptual reimagining of EU integration structured around voluntary "Hestias" (fires of integration).
+An interactive map visualizing the **Hearthwork EU Charter** — a conceptual reimagining of EU integration structured around voluntary "Hestias" (fires of integration).
 
 ![Map showing European countries colored by their Charter standing](screenshot.png)
 

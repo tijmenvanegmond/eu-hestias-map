@@ -1,8 +1,8 @@
 import './styles.css';
 import { marked } from 'marked';
-import charterMd from '../charter.md?raw';
-import manifestoMd from '../manifesto.md?raw';
-import commentaryMd from '../commentary.md?raw';
+import charterMd from '../docs/charter.md?raw';
+import manifestoMd from '../docs/manifesto.md?raw';
+import commentaryMd from '../docs/commentary.md?raw';
 
 const sources = {
   charter: charterMd,

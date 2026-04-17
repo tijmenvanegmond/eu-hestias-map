@@ -9,9 +9,9 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
-        charter: resolve(__dirname, 'charter.html'),
-        manifesto: resolve(__dirname, 'manifesto.html'),
-        commentary: resolve(__dirname, 'commentary.html'),
+        charter: resolve(__dirname, 'src/charter.html'),
+        manifesto: resolve(__dirname, 'src/manifesto.html'),
+        commentary: resolve(__dirname, 'src/commentary.html'),
       },
     },
   },

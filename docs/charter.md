@@ -1,4 +1,4 @@
-# Charter of the European Hearth
+# Hearthwork EU Charter
 ### A Constitutional Charter for a Living European Union
 
 **Twelfth Draft**

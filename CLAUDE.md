@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-An interactive web application visualizing the "European Hearth Charter" — a conceptual reimagining of EU integration structured around voluntary "Hestias" (fires of integration). Built with vanilla JS, D3 (d3-geo only), and Vite.
+An interactive web application visualizing the "Hearthwork EU Charter" — a conceptual reimagining of EU integration structured around voluntary "Hestias" (fires of integration). Built with vanilla JS, D3 (d3-geo only), and Vite.
 
 ## Running the App
 

@@ -1,4 +1,4 @@
-# Commentary on the Charter of the European Hearth
+# Commentary on the Hearthwork EU Charter
 ### Interpretive Companion to the Twelfth Draft
 
 *This commentary unpacks the articles where the Charter's brevity most needs explanation. It has no constitutional force — think of it as the Federalist Papers to the Charter's Constitution. Where the Charter is silent, the Commentary cannot speak. Where it is ambiguous, the Commentary offers the best reading, but the CJEU has the final word.*
