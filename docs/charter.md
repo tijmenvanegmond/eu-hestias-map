@@ -168,6 +168,7 @@ Voting rights in any Hestia require Fiscal Key payment.
 3. **Light-Out Clause** — non-payment suspends voting rights after a sixty-day cure period. Sustained non-payment triggers withdrawal.
 4. **Force Majeure** — a state experiencing a documented constitutional crisis, natural disaster, or acute economic emergency (as certified by the Independent Review Commission) may request suspension of the Light-Out Clause for up to twelve months. The request must be supported by evidence and is subject to CJEU expedited review. During the suspension, the state retains consultation rights but not voting rights. The Force Majeure suspension may be renewed once for a further six months; beyond that, the Light-Out Clause resumes automatically.
 5. **Ring-Fencing** — each Hestia budget is isolated. Suspension in one does not affect others.
+6. **Observer Carve-Out** — observer status under VI.10 is distinct from the Fiscal Key, requires no subscription, and confers no voting rights. Presence is not power; the Fiscal Key remains the sole gateway to a vote.
 
 **VI.5 — Anti-Dominance Rule.** The double majority of IV.5 is the structural safeguard against dominance: no coalition can carry a Hestia decision without both a majority of states and a majority of the participating population. Hestia compacts may set higher thresholds for specified categories of decision, but may not lower them.
 
@@ -206,6 +207,15 @@ Where a Hestia rule in force is found to conflict with the Assembly Baseline —
 
 The cost is named honestly: a Member that refuses pays in democratic voice — losing its Assembly vote and Parliament representation while retaining constitutional partnership through IUA status. Constrained by CJEU review for Inviolable Floor compatibility.
 
+## VI.10 — Observer Seats
+
+1. **Eligibility.** Any Member, Inner Union Associate, or Outer Union Associate not currently a participant in a Hestia may take an observer seat in that Hestia. Strategic Partners with demonstrated subject-matter interest may take an observer seat upon application to the Hestia Council. The Council may not refuse an eligible applicant without published reasons reviewable by the Independent Review Commission.
+2. **Rights of observers.** Observers may attend open sessions of the Hestia Council and of the Modular Parliament when sitting with the Hestia's roster. They receive all non-confidential documents on the same timeline as participants. They may speak at agenda points relevant to their state, submit written interventions, and propose amendments for participants' consideration. They may not vote, second motions, or invoke procedural motions reserved to participants.
+3. **Confidentiality.** Sessions classified by the Council as confidential under criteria published in the Union Register are closed to observers. Declassified summaries shall be provided to observers within thirty days of the session.
+4. **Cost.** Observer status carries an administrative fee set by the Hestia Council, calibrated to cover its administrative cost and not exceeding it. The Fiscal Key (VI.4) is unaffected; observer status confers no voting rights and creates no Fiscal Key obligation.
+5. **Termination.** Observer status is held until the observer withdraws, accedes as a participant, or is removed by qualified majority of the Hestia Council for documented obstruction of proceedings. Removal is reviewable by the Independent Review Commission.
+6. **Relationship to other rights.** Observer status is in addition to, and does not replace, consultation rights under VII.4, the suspensive veto under VII.5, or remedies under VII.3. A state may hold observer status concurrently with these rights.
+
 ---
 
 # Title VII — External Reach
@@ -214,19 +224,29 @@ The cost is named honestly: a Member that refuses pays in democratic voice — l
 
 **VII.2 — Regulatory Gravity.** Regulatory gravity exists when a Hestia rule, by virtue of market scale, technical standardisation, or supply-chain integration, creates de facto compliance pressure on non-participating states or their economic actors. The Legislative Classification Body shall apply published quantitative and qualitative indicators — including market-share thresholds, cross-border dependency ratios, and compliance-cost assessments — when determining whether regulatory gravity is present. The methodology and indicators shall be reviewed by the Constitutional Convention at each regular session.
 
+**VII.2A — Assembly Ratification of External Reach.** Hestia legislation classified as External Reach under VII.1 does not enter into force on the Hestia's vote alone. It is transmitted to the Assembly for ratification.
+
+1. **Threshold.** Ratification requires the double majority of IV.5: a majority of Assembly Member states and a majority of Member-state population.
+2. **Disposition.** The Assembly may (a) ratify, in which case the rule enters force with External Reach effects; (b) ratify with reach stripped, in which case the rule enters force but binds participants only and creates no Union-recognised gravity claim; or (c) reject, in which case the rule returns to the Hestia for amendment.
+3. **Default on rejection.** A rule rejected by the Assembly may be re-enacted by the Hestia as Internal-only without further Assembly action. The Hestia retains full authority to bind its own participants; what it cannot do without Assembly consent is bind outsiders.
+4. **Time limit.** The Assembly shall act within six months of transmission. Silence at expiry is tacit ratification with reach stripped.
+5. **Authorship.** The Hestia remains the rule's author, expert body, administrator, and signatory. The Assembly's role is confined to authorising the rule's reach; it may not amend the rule's substance. Ratification is recorded as a separate Reach Ratification instrument issued by the Assembly President alongside the Hestia's enacting instrument.
+6. **Amendments.** Subsequent amendments to a ratified External Reach rule require fresh Assembly ratification under this article unless the Independent Legislative Classification Body certifies that the amendment does not alter the rule's reach.
+7. **Promotion preserved.** This article governs the *reach* of a Hestia rule; it does not promote the rule to Assembly Baseline. Promotion remains governed by VI.9 and requires the higher thresholds set there.
+
 **VII.3 — Remedies for Regulatory Gravity.** Where legislation is classified as External Reach, affected non-participating states are entitled to the following remedies. Claims under each remedy are assessed by the Independent Review Commission. None of the remedies confers voting rights in the legislating Hestia.
 
 1. **Equivalence.** A non-participating state may petition for a declaration that its domestic rules are equivalent to the Hestia's rule for the purposes of market access and conformity assessment. Where equivalence is found, compliance is established through the non-participant's own regulator, and the Hestia shall not require duplicate certification. Equivalence declarations are reviewable at fixed intervals and may be withdrawn for cause. This is the remedy of first resort.
 
 2. **Discounted Accession.** A non-participating state demonstrating substantial regulatory-gravity exposure may, during a one-year window following the rule's entry into force, join the Hestia at a Fiscal Key reduced in proportion to the documented de facto compliance already borne. The discount tapers to the standard rate over five years. This remedy converts asymmetric compliance into participation rather than payment, and is open to Members, Inner Union Associates, and Outer Union Associates alike.
 
-3. **Narrow Hardship Facility.** A state that is constitutionally barred from joining the Hestia — including by neutrality provision, Assembly-Locked Domain under I.10, or equivalent durable legal impediment — may apply to a Hardship Facility, funded from the Assembly budget rather than the legislating Hestia's revenues, for time-limited transition assistance. Strategic Partners may apply on the same basis. Members and Associates who are legally eligible to join the Hestia are not eligible for the Facility; their remedy is equivalence or accession. The Facility sunsets ten years after the rule's entry into force.
+3. **Narrow Hardship Facility.** A state that is constitutionally barred from joining the Hestia — including by neutrality provision, Assembly-Locked Domain under I.10, or equivalent durable legal impediment — may apply to a Hardship Facility, funded from the legislating Hestia's own Fiscal Key revenues, for time-limited transition assistance. Strategic Partners may apply on the same basis. Members and Associates who are legally eligible to join the Hestia are not eligible for the Facility; their remedy is equivalence or accession. The Facility sunsets ten years after the rule's entry into force. The Hestia carries the cost of its own spillover: it cannot create gravity and disclaim its consequences.
 
-No other compensation flows from participating to non-participating states by virtue of regulatory gravity. The Union does not pay states to remain outside the rules it writes.
+Beyond the narrow Hardship Facility of ¶3, no compensation flows from participating to non-participating states by virtue of regulatory gravity. The Union does not pay states that chose to remain outside the rules it writes.
 
-**VII.4 — The Standing Review Body.** Handles consultation and suspensive veto procedures on External Reach legislation. Affected states across all standings hold consultation rights.
+**VII.4 — The Standing Review Body.** Handles consultation and suspensive veto procedures on External Reach legislation. Affected states across all standings hold consultation rights, additive to any observer rights under VI.10 or remedies under VII.3.
 
-**VII.5 — The Suspensive Veto.** External Reach legislation may be paused for review (six months, or thirty days for trade-affecting matters). The Standing Review Body may propose amendments, exemptions, transition periods, or recommend remedies under VII.3. After review, the legislating body may proceed with or without modification.
+**VII.5 — The Suspensive Veto.** During the Assembly ratification window under VII.2A, affected states without Assembly voting rights — Inner Union Associates, Outer Union Associates, and Strategic Partners — may, through the Standing Review Body, pause ratification proceedings for review (six months, or thirty days for trade-affecting matters). The Standing Review Body may propose amendments to the Hestia, recommend exemptions or transition periods, or recommend remedies under VII.3. The pause runs concurrently with, and extends as needed, the six-month limit in VII.2A. After review, the Assembly may proceed with ratification with or without modification of the underlying rule.
 
 **VII.6 — Escalation.** Unresolved disputes escalate to a Joint Review Panel, then to a CJEU advisory opinion.
 

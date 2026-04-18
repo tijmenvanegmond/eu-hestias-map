@@ -89,7 +89,23 @@ The cost of equal voting is admitted: it overstates the contribution of small pa
 
 The **Double Majority Safeguard** (IV.5) preserves what weighted voting was reaching for: every decision needs both a majority of participating *states* and a majority of participating *citizens*. A small bloc of large states cannot steamroll the rest; a large bloc of small states cannot bind a large population without its consent. Both counts are still binary — every state once, every citizen once — just two ways of counting the same yes-or-no participation.
 
-Spillover concerns are handled through the External Reach machinery (Title VII), which gives non-participants consultation rights, a suspensive veto, and structured remedies — equivalence of their own rules, discounted accession into the Hestia, or, for the constitutionally-barred, a narrow hardship facility. They are heard, not merely outvoted — and those genuinely pressed by regulatory gravity are offered a way *in*, not a cheque to stay out.
+Spillover concerns are handled through the External Reach machinery (Title VII), which now layers four mechanisms beneath the Hestia's own vote. First, **Assembly Ratification** (VII.2A): a Hestia rule with regulatory gravity does not enter force on the Hestia's vote alone — the Assembly of Member States must ratify its reach by double majority, or strip the reach so the rule binds participants only. Second, **Observer Seats** (VI.10): any Member, IUA, or OUA may sit in the Hestia Council and in the Modular Parliament with the Hestia's roster — hearing deliberations directly, speaking on relevant agenda points, proposing amendments — without paying the Fiscal Key and without the right to vote. Third, the **Suspensive Veto** (VII.5), now scoped to affected states *without* an Assembly vote — IUAs, OUAs, Strategic Partners — to pause ratification for review. Fourth, **structured remedies** (VII.3) — equivalence, discounted accession, or, for the constitutionally-barred, a narrow Hardship Facility funded by the Hestia itself.
+
+Non-participants are no longer merely heard. They are *present* in the room as observers, *voting on reach* where they are Members, *pausing ratification* where they are not, and *offered concrete paths through gravity* where the rule still bites them.
+
+### The consent triangle
+
+The architecture above forms three concentric rings of voice, each tied to a different level of commitment:
+
+| Ring | What you do | What you get |
+|---|---|---|
+| **Member of the Hestia** | Pay the Fiscal Key (VI.4) | Vote in the Council, vote in the Modular Parliament with the Hestia roster |
+| **Reach ratifier** | Be a Member of the Union | Vote in the Assembly when External Reach is ratified (VII.2A) |
+| **Observer** | Take an observer seat (VI.10) | Attend, hear, speak, submit interventions, propose amendments — no vote |
+
+Voting still requires the Fiscal Key — *no subscription, no vote* holds. What the new architecture does is uncouple **presence** from **power**. A state that does not pay the Key can still be in the room, can still speak, can still propose. What it cannot do — without paying — is cast a vote inside the Hestia. And what a minority Hestia cannot do — without Assembly consent — is bind the outside through gravity.
+
+Three rings, three levels of commitment. The Charter stops treating *non-participant* as *absent*.
 
 ### A worked example
 
@@ -97,9 +113,27 @@ Suppose the **Loom Hestia** — digital governance — adopts a stringent AI lia
 
 - **Switzerland**, a Strategic Partner, petitions for **equivalence** (VII.3 ¶1). Its national digital regulator is certified as meeting the Hestia's standard; Swiss firms comply through Berne rather than Tallinn. Nothing changes hands. Both sides save on duplicate certification. Not coincidentally, this is already how much of the Swiss-EU relationship works today.
 - **A Member State that opted out of Loom** finds its companies already compliant in practice. Within the one-year window, it takes **discounted accession** (VII.3 ¶2) — joining Loom at a reduced Fiscal Key that reflects the compliance already borne, tapering to the standard rate over five years. From that day forward it votes on the next Loom rule. Regulatory gravity has become membership.
-- The **Hardship Facility** (VII.3 ¶3) does not apply in this case: digital governance carries no constitutional bar. But imagine instead the **Shield Hestia** adopts a common defence procurement standard. **Ireland**, constitutionally neutral, cannot join Shield without amending its own constitution. It applies to the Facility — funded from the Assembly budget, not from Shield's revenues — for up to ten years of transition assistance. After that, the Facility closes; Ireland's neutrality, and the compliance cost it carries, are Ireland's own.
+- The **Hardship Facility** (VII.3 ¶3) does not apply in this case: digital governance carries no constitutional bar. But imagine instead the **Shield Hestia** adopts a common defence procurement standard. **Ireland**, constitutionally neutral, cannot join Shield without amending its own constitution. It applies to the Facility — funded from Shield's own Fiscal Key revenues, on the principle that a Hestia carries the cost of its own spillover — for up to ten years of transition assistance. After that, the Facility closes; Ireland's neutrality, and the compliance cost it carries, are Ireland's own.
 
-Three doors, three standings, one principle. Equivalence is the door for peers who want to stay peers. Accession is the door for the regulated-in-fact who accept being regulated-in-law. Hardship is the door for those the law will not let through the other two. What the Charter refuses to build is a fourth door — the one marked *stay out and send us the bill*.
+Three doors, three standings, one principle. Equivalence is the door for peers who want to stay peers. Accession is the door for the regulated-in-fact who accept being regulated-in-law. Hardship is the door for those the law will not let through the other two. What the Charter refuses to build is a fourth door — the one marked *stay out by choice and send us the bill*.
+
+### Why join at all?
+
+A reasonable objection: if equivalence, accession, and hardship are available, why would any state bother paying the Fiscal Key and joining the Hestia in the first place? The short answer is that **bypass buys you rule-taking; membership buys you rule-making**. The remedies are floors, deliberately priced to be worse than membership on the margin.
+
+Seven things a bypasser gives up:
+
+1. **Voice on the next rule.** Equivalence means conforming to *their* rule. You don't sit in the Hestia Council when it drafts the amendment, and you don't sit in the Modular Parliament when it legislates. The rule is always someone else's; you just keep matching it.
+2. **Revocability protection.** Equivalence is withdrawn for cause — a regulatory drift, a rule-of-law slippage, a political turn. Your firms face dual certification overnight. Members live under the Charter; bypassers live at the Hestia's discretion.
+3. **The accession window.** Discounted accession is a one-year door after the rule enters force. You cannot ride gravity for a decade and then cash in; either you take the on-ramp promptly or you pay full Fiscal Key later with no rebate. Procrastination has a price.
+4. **Hardship eligibility.** The Facility is narrow by design: ten years, constitutionally-barred only, funded from the legislating Hestia's own Fiscal Key revenues. If you *could* have joined and simply chose not to, you don't qualify — the Hestia helps the trapped, not the choosy.
+5. **The Hestia's assets.** A Hestia is not only a rulebook. It is joint procurement (Shield), launcher programmes (Atlas), research infrastructure (Beacon), a digital sovereignty fund (Loom), shared grid investment (Lattice). Equivalence grants market access; it does not grant a seat at the procurement table, a share in the fund, or access to the data.
+6. **Promotion protection.** Under VI.9, a Hestia rule that proves itself can be elevated to Assembly Baseline. Bypassers who shaped nothing now face a rule they helped draft nothing of — align as a Member or step back to IUA and surrender the Assembly vote. The rule follows bypassers home.
+7. **Double-majority weight.** When the Hestia votes, it counts participating states and participating populations. Bypassers' citizens are not counted even when their firms are bound. The demographic floor that protects members from being steamrolled does not protect bypassers.
+
+A sharper objection might land here: doesn't Assembly Ratification (VII.2A) hand non-participating Members a vote on the Hestia's rule, dissolving the membership advantage? It does not. A Member voting in the Assembly on ratification votes on the rule's *reach* — whether it should bind outsiders through gravity — not on its *substance*. The Hestia, and only the Hestia, writes the rule. The Assembly may say *yes, bind us all*, *yes but only your own members*, or *no*. It cannot say *yes, but with these amendments*. **Authorship is the membership privilege. Ratification is the legitimacy gate. Observation is the open door.** Three different goods, paid for in three different currencies; only one of them is bought with the Fiscal Key.
+
+The deeper design point: the remedies are priced to keep membership attractive, not to replace it. If equivalence were as rich as membership, membership would collapse — and with it the Hestia would lose the mass it needs to exist at all, at which point there is no rule left to be equivalent to. Every non-participant using a remedy implicitly relies on enough states *not* using the remedy. The Charter makes that trade-off legible rather than hiding it: pay in and shape the rule, or stay out and chase it.
 
 ---
 

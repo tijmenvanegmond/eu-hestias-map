@@ -236,7 +236,7 @@ POL:
   standing: member
   population: 36.8
   note: Złoty held; coal transition; judicial tensions
-  hestias: { fiscal: 0, shield: 1, gate: 1, loom: 1, green: 0, bench: 0, atlas: 1, forge: 1, library: 1, spring: 1, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 1, lattice: 1 }
+  hestias: { fiscal: 0, shield: 1, gate: 1, loom: 1, green: 0, bench: 0, atlas: 1, forge: 1, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 1, lattice: 1 }
   reasons:
     fiscal: Retains the złoty; no near-term convergence programme despite treaty obligation.
     green: Coal accounts for ~60% of electricity; just transition politically fraught.
