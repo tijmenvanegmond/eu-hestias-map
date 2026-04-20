@@ -71,11 +71,13 @@ hereby establish this Charter as the foundation of a European Union composed of 
 
 **III.1 — Union Citizenship.** Citizens of Members are Union citizens, additional to national citizenship.
 
-**III.2 — Direct Rights.** Free movement throughout the Inner Union, European Parliament voting (Members), petition rights, Ombudsman access, equal treatment under Union law.
+**III.2 — Direct Rights.** Free movement throughout the Inner Union, European Parliament voting (Members and Inner Union Associates), petition rights, Ombudsman access, equal treatment under Union law.
 
-**III.3 — Inner Union Associate Citizens.** Direct Charter rights including free movement and petition. No vote on Assembly Baseline legislation. Full Hestia voting rights when their state participates via Fiscal Key.
+**III.3 — Inner Union Associate Citizens.** Direct Charter rights including free movement, petition, and direct election of Members of the European Parliament on the same cycle and apportionment formula as Members. IUA MEPs vote in the Modular Parliament on legislation in Hestias their state has joined. They do not vote on Assembly Baseline legislation or on External Reach Ratification.
 
-**III.4 — Outer Union & Strategic Citizens.** Rights defined through bilateral compacts, with reciprocity governing Strategic Partner relationships.
+**III.3A — Outer Union Associate Representation.** OUA citizens do not directly elect Members of the European Parliament. OUA states are represented in the Hestias they join through their ministers on the Hestia Council. OUAs have no vote in the Modular Parliament or in the Assembly. Where the Modular Parliament sits with the roster of a Hestia the OUA has joined, the OUA's delegation may attend, speak on relevant files, and submit written interventions, but may not vote. Observer rights in non-joined Hestias follow VI.10.
+
+**III.4 — Strategic Partner Citizens.** Rights defined through bilateral compacts, with reciprocity governing Strategic Partner relationships. No direct representation in Union institutions; voice runs through observer seats (VI.10) and consultation via the Standing Review Body (VII.4). Strategic Partners do not hold a suspensive veto.
 
 **III.5 — Citizenship Continuity.** Citizens of demoted Member states retain Union citizenship for five years from the date of demotion.
 
@@ -97,10 +99,12 @@ Voice follows obligation: the question is not *how much* a state votes but *whet
 
 | Context | Who votes | Who does not |
 |---|---|---|
-| Assembly Baseline | Members | IUAs, OUAs, Strategic Partners |
-| Hestia | Participating states (Member, IUA, or OUA) — one vote each | Non-participants of any standing |
+| Assembly Baseline (Parliament) | Members' MEPs | IUAs, OUAs, Strategic Partners |
+| External Reach Ratification (Parliament, VII.2A) | Members' and IUAs' MEPs | OUAs, Strategic Partners |
+| Hestia file — Modular Parliament | MEPs of Members and IUAs participating in the Hestia | MEPs of non-participants; OUAs (no Parliamentary vote at any roster); Strategic Partners |
+| Hestia Council | Ministers of participating states (Members, IUAs, and OUAs) — one vote each, contingent on Fiscal Key payment at the applicable rate | Non-participants of any standing; Strategic Partners (observer only) |
 
-External Reach legislation: affected states across all standings hold consultation rights and the suspensive veto under VII.5, but do not vote on the file itself.
+External Reach legislation: affected states across all standings hold consultation rights under VII.4, but do not vote on the file itself. Only Inner Union Associates hold the suspensive veto under VII.5; Outer Union Associates and Strategic Partners do not. Observer rights in non-joined Hestias are governed by VI.10 and confer no vote.
 
 **IV.4 — Certification.** The Speaker certifies the voting roster per file before debate opens — publishing which states vote and which do not. Certification is challengeable through expedited CJEU review.
 
@@ -110,16 +114,22 @@ External Reach legislation: affected states across all standings hold consultati
 
 # Title V — Standings
 
-## V.1 — The Five Standings
+## V.1 — The Four Standings
 
 | Standing | Character |
 |---|---|
-| **Member** | Full rights and obligations as constitutive states |
-| **Inner Union Associate** | Constitutional integration with free movement, no Assembly vote, full Hestia rights via Fiscal Key |
-| **Outer Union Associate** | Treaty-based alignment, sectoral participation, gravitational orientation |
-| **Strategic Partner** | Reciprocal cooperation between sovereign peers |
+| **Member** | Full rights and obligations as constitutive states: Assembly Baseline vote, direct election of MEPs, Hestia Council and Modular Parliament vote in every joined Hestia, full Fiscal Key |
+| **Inner Union Associate** | Constitutional integration with free movement. Direct election of MEPs on the same cycle and apportionment formula as Members. Hestia Council and Modular Parliament vote in every joined Hestia via full Fiscal Key. No Assembly Baseline vote and no vote on External Reach Ratification |
+| **Outer Union Associate** | Treaty-based alignment and sectoral participation. Hestia Council vote in every joined Hestia via a discounted Fiscal Key (discount rate set by each Hestia's founding compact). No direct MEP elections, no Modular Parliament vote, no Assembly vote. Observer rights under VI.10 |
+| **Strategic Partner** | Reciprocal cooperation between sovereign peers. No direct representation in Union institutions; voice runs through observer seats (VI.10) and consultation via the Standing Review Body (VII.4). No suspensive veto |
+
+Across standings, deeper integration adds one layer of voice: a Strategic Partner gains a Hestia Council vote on becoming an OUA; an OUA gains direct MEP elections and a Modular Parliament vote on becoming an IUA; an IUA gains the Assembly Baseline vote on becoming a Member. Council represents states; Parliament represents populations; the Assembly represents the constitutive Union. No standing skips a layer.
 
 **V.2 — Standing Compacts.** Each non-Member standing is governed by a bilateral compact reviewed at appropriate intervals. Compacts require approval by the European Parliament and the partner state's democratic institutions.
+
+1. **OUA Council voice.** An OUA state's Hestia Council vote is contingent on Fiscal Key payment at the discounted rate set by that Hestia's founding compact. The Light-Out Clause (VI.4 ¶3) and Force Majeure protections (VI.4 ¶4) apply on the same basis as to Members and IUAs.
+2. **IUA election transition.** A state newly acceding to Inner Union Associate standing is granted one European Parliament election cycle (up to five years) from compact entry into force to organise direct MEP elections. During the transition, the state is represented in the Modular Parliament by delegates appointed by its national parliament, apportioned under the same formula that will govern its direct elections. Transitional delegates vote only in Hestias the state has joined; they do not vote on Assembly Baseline legislation or on External Reach Ratification.
+3. **Asymmetry acknowledged.** OUA states implement Hestia legislation through Council rules on which they vote, but do not vote on the Parliamentary passage of that legislation. This is a known deficit in popular representation, accepted as the price of sectoral participation without fuller integration. A state seeking parliamentary voice on the rules it implements must accede to Inner Union Associate standing.
 
 ---
 
@@ -165,6 +175,7 @@ Voting rights in any Hestia require Fiscal Key payment.
 
 1. **No subscription, no vote.**
 2. **Calculation** based on GDP and domain exposure, certified by the Independent Review Commission.
+   - **OUA discount.** Outer Union Associates pay a discounted Fiscal Key reflecting their narrower standing: Council vote only, no Modular Parliament vote, no direct MEP elections. The discount rate is fixed in each Hestia's founding compact and applies uniformly to all OUA participants in that Hestia. The rate may be amended only by Hestia Council supermajority with the concurrence of the affected OUA state or states. The discounted rate may not fall so low as to amount to cost-free participation; a published floor, set by the Independent Review Commission, preserves the principle that voice is bought with contribution.
 3. **Light-Out Clause** — non-payment suspends voting rights after a sixty-day cure period. Sustained non-payment triggers withdrawal.
 4. **Force Majeure** — a state experiencing a documented constitutional crisis, natural disaster, or acute economic emergency (as certified by the Independent Review Commission) may request suspension of the Light-Out Clause for up to twelve months. The request must be supported by evidence and is subject to CJEU expedited review. During the suspension, the state retains consultation rights but not voting rights. The Force Majeure suspension may be renewed once for a further six months; beyond that, the Light-Out Clause resumes automatically.
 5. **Ring-Fencing** — each Hestia budget is isolated. Suspension in one does not affect others.
@@ -214,7 +225,7 @@ The cost is named honestly: a Member that refuses pays in democratic voice — l
 3. **Confidentiality.** Sessions classified by the Council as confidential under criteria published in the Union Register are closed to observers. Declassified summaries shall be provided to observers within thirty days of the session.
 4. **Cost.** Observer status carries an administrative fee set by the Hestia Council, calibrated to cover its administrative cost and not exceeding it. The Fiscal Key (VI.4) is unaffected; observer status confers no voting rights and creates no Fiscal Key obligation.
 5. **Termination.** Observer status is held until the observer withdraws, accedes as a participant, or is removed by qualified majority of the Hestia Council for documented obstruction of proceedings. Removal is reviewable by the Independent Review Commission.
-6. **Relationship to other rights.** Observer status is in addition to, and does not replace, consultation rights under VII.4, the suspensive veto under VII.5, or remedies under VII.3. A state may hold observer status concurrently with these rights.
+6. **Relationship to other rights.** Observer status is in addition to, and does not replace, consultation rights under VII.4, the suspensive veto under VII.5 (held only by Inner Union Associates), or remedies under VII.3. A state may hold observer status concurrently with any of these rights for which it is eligible.
 
 ---
 
@@ -244,13 +255,13 @@ The cost is named honestly: a Member that refuses pays in democratic voice — l
 
 Beyond the narrow Hardship Facility of ¶3, no compensation flows from participating to non-participating states by virtue of regulatory gravity. The Union does not pay states that chose to remain outside the rules it writes.
 
-**VII.4 — The Standing Review Body.** Handles consultation and suspensive veto procedures on External Reach legislation. Affected states across all standings hold consultation rights, additive to any observer rights under VI.10 or remedies under VII.3.
+**VII.4 — The Standing Review Body.** Handles consultation on External Reach legislation and administers the suspensive veto held by Inner Union Associates under VII.5. Affected states across all standings hold consultation rights, additive to any observer rights under VI.10 or remedies under VII.3. Consultation confers voice, not a veto; only IUAs may trigger a pause.
 
-**VII.5 — The Suspensive Veto.** During the Assembly ratification window under VII.2A, affected states without Assembly voting rights — Inner Union Associates, Outer Union Associates, and Strategic Partners — may, through the Standing Review Body, pause ratification proceedings for review (six months, or thirty days for trade-affecting matters). The Standing Review Body may propose amendments to the Hestia, recommend exemptions or transition periods, or recommend remedies under VII.3. The pause runs concurrently with, and extends as needed, the six-month limit in VII.2A. After review, the Assembly may proceed with ratification with or without modification of the underlying rule.
+**VII.5 — The Suspensive Veto.** During the Assembly ratification window under VII.2A, affected Inner Union Associates may, through the Standing Review Body, pause ratification proceedings for review (six months, or thirty days for trade-affecting matters). The Standing Review Body may propose amendments to the Hestia, recommend exemptions or transition periods, or recommend remedies under VII.3. The pause runs concurrently with, and extends as needed, the six-month limit in VII.2A. After review, the Assembly may proceed with ratification with or without modification of the underlying rule. Outer Union Associates and Strategic Partners do not hold a suspensive veto; their voice on External Reach files runs through consultation under VII.4 and observer rights under VI.10.
 
 **VII.6 — Escalation.** Unresolved disputes escalate to a Joint Review Panel, then to a CJEU advisory opinion.
 
-**VII.7 — External Negotiation Mandate.** The Assembly may, by qualified majority, authorise a Hestia Council to negotiate with third countries or international organisations within that Hestia's domain. The authorising mandate must define the negotiating scope, red lines, and reporting obligations. The Hestia Council negotiates on behalf of all participating states and reports progress to the Modular Parliament. Ratification of a negotiated agreement requires co-decision: qualified majority of the Hestia's participating states and qualified majority of the Assembly. Where the agreement has External Reach effects, the Standing Review Body conducts a parallel consultation under VII.4, and affected states across all standings retain the suspensive veto under VII.5. Strategic Partners hold consultation rights throughout the negotiation process. No agreement may override Assembly-Locked Domains (I.10) or the Inviolable Floor.
+**VII.7 — External Negotiation Mandate.** The Assembly may, by qualified majority, authorise a Hestia Council to negotiate with third countries or international organisations within that Hestia's domain. The authorising mandate must define the negotiating scope, red lines, and reporting obligations. The Hestia Council negotiates on behalf of all participating states and reports progress to the Modular Parliament. Ratification of a negotiated agreement requires co-decision: qualified majority of the Hestia's participating states and qualified majority of the Assembly. Where the agreement has External Reach effects, the Standing Review Body conducts a parallel consultation under VII.4, and affected Inner Union Associates retain the suspensive veto under VII.5. Outer Union Associates and Strategic Partners hold consultation and observer rights throughout the negotiation process but no veto. No agreement may override Assembly-Locked Domains (I.10) or the Inviolable Floor.
 
 ---
 
