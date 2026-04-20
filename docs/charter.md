@@ -62,7 +62,7 @@ hereby establish this Charter as the foundation of a European Union composed of 
 | **Participation** | Legal, fiscal, and regulatory involvement |
 | **Fiscal Key** | Financial subscription required for Hestia voting rights |
 | **Modular Parliament** | The European Parliament configured per legislative file |
-| **Hestia Council** | The executive body of a Hestia, composed of participating states' ministers |
+| **Hestia Council** | The governing body of a Hestia. By default composed of participating states' ministers, but the founding compact may adopt an alternative structure under VI.2 |
 | **Hestia Capital** | The permanent seat of a Hestia Council, designated by its founding members |
 
 ---
@@ -149,7 +149,17 @@ No state may be excluded from joining a Hestia for political reasons. Criteria m
 
 Each Hestia is governed by a Hestia Council — a domain-specific executive body seated in a permanent Hestia Capital.
 
-**Composition.** Each participating state appoints its relevant minister to the Council as of right. Beyond this ministerial core, each Hestia compact may provide for technical delegates, expert advisers, or citizen representatives. Composition beyond the ministerial core is determined by the founding members and may be amended by Council supermajority.
+**Composition — Default Model.** Unless the founding compact specifies otherwise, each participating state appoints its relevant minister to the Council as of right. Beyond this ministerial core, the compact may provide for technical delegates, expert advisers, or citizen representatives. Composition beyond the ministerial core is determined by the founding members and may be amended by Council supermajority.
+
+**Composition — Alternative Models.** The founding compact of a Hestia may depart from the ministerial default where the domain warrants a different structure — for example, a board of independent experts for a Hestia governing technical standards, a directly-elected assembly, a sortition-selected citizen body for a rights-adjacent domain, or a hybrid combining ministerial and non-ministerial seats. Any alternative model must satisfy the following invariants:
+
+1. **State representation.** Every participating state holds at least one seat or equivalent vote, weighted consistent with IV.5's double-majority principle.
+2. **Democratic accountability.** Non-ministerial members must be appointed or elected through procedures that are public, rule-governed, and reviewable — not assembled by Hestia insiders.
+3. **Fiscal Key linkage.** Voting rights in the Council, whatever its composition, remain contingent on Fiscal Key payment under VI.4 at the applicable rate. No body may be structured so that voice is detached from subscription.
+4. **Parliamentary accountability.** The body remains answerable to the Modular Parliament under the terms of this Article, including censure.
+5. **Transparency.** The alternative structure is set out in full in the founding compact, published in the Union Register, and subject to CJEU review for conformity with these invariants.
+
+An alternative model may be adopted only at founding, or by unanimous consent of all current participants through a compact amendment ratified by the Modular Parliament.
 
 **Presidency.** The Hestia Council is chaired on a rotating basis by participating states, in order of accession to the Hestia, for terms of no more than twelve months. The Presidency sets the Council agenda, chairs sessions, and mediates procedural disputes. No state may hold the Presidency of the same Hestia for consecutive terms.
 
