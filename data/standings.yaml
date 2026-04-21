@@ -2,14 +2,14 @@ member:
   label: Member
   className: standing-member
   color: var(--member)
-inner-assoc:
-  label: Inner Union Associate
+companion:
+  label: Companion
   className: standing-inner
-  color: var(--inner-assoc)
-outer-assoc:
-  label: Outer Union Associate
+  color: var(--companion)
+compact:
+  label: Compact
   className: standing-outer
-  color: var(--outer-assoc)
+  color: var(--compact)
 strategic:
   label: Strategic Partner
   className: standing-strategic

@@ -9,8 +9,8 @@
   --shadow: rgba(18, 24, 32, 0.12);
 
   --member: #5475b8;
-  --inner-assoc: #7494c4;
-  --outer-assoc: #8aa68a;
+  --companion: #7494c4;
+  --compact: #8aa68a;
   --strategic: #b08d57;
   --non: #d8d4cc;
   --eu-non: #b8b4ac;
@@ -34,8 +34,8 @@
   --shadow: rgba(0, 0, 0, 0.4);
 
   --member: #6b8fd4;
-  --inner-assoc: #8aaddb;
-  --outer-assoc: #7fb87f;
+  --companion: #8aaddb;
+  --compact: #7fb87f;
   --strategic: #c9a55a;
   --non: #3a3d42;
   --eu-non: #2a2d32;
@@ -502,7 +502,7 @@ h1 {
   box-shadow: 0 1px 2px rgba(18, 24, 32, 0.1);
 }
 
-.legend-swatch-aspirant-iua {
+.legend-swatch-aspirant-companion {
   background: repeating-linear-gradient(
     45deg,
     #8aa68a,
@@ -605,8 +605,8 @@ h1 {
 }
 
 .standing-member { background: var(--member); }
-.standing-inner { background: var(--inner-assoc); color: var(--ink); }
-.standing-outer { background: var(--outer-assoc); color: var(--ink); }
+.standing-inner { background: var(--companion); color: var(--ink); }
+.standing-outer { background: var(--compact); color: var(--ink); }
 .standing-strategic { background: var(--strategic); }
 .standing-non-eu { background: var(--ash); }
 .standing-suspended { background: var(--suspended); }

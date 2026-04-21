@@ -64,7 +64,7 @@ const countries = computed<MapCountry[]>(() => {
         fill = isSuspended ? 'var(--suspended)' : 'var(--eu-non)';
         opacity = undefined;
       } else if (state.currentView === 'standings') {
-        if (data.aspirant === 'iua') fill = 'url(#pattern-aspirant-iua)';
+        if (data.aspirant === 'companion') fill = 'url(#pattern-aspirant-companion)';
         else if (data.aspirant === 'member') fill = 'url(#pattern-aspirant-member)';
         else fill = typedStandings[data.standing].color;
         opacity = '1';
@@ -116,7 +116,7 @@ const capitalMarker = computed(() => {
 });
 
 const fallbackHtml = computed(() => {
-  const byStanding: Record<string, string[]> = { member: [], 'inner-assoc': [], 'outer-assoc': [], strategic: [] };
+  const byStanding: Record<string, string[]> = { member: [], companion: [], compact: [], strategic: [] };
   Object.entries(typedCountryData).forEach(([, data]) => {
     if (byStanding[data.standing]) byStanding[data.standing].push(data.name);
   });
@@ -146,7 +146,7 @@ onMounted(async () => {
     <div v-else-if="error" class="loading" v-html="fallbackHtml"></div>
     <svg v-else id="map-svg" :viewBox="`0 0 ${WIDTH} ${HEIGHT}`" preserveAspectRatio="xMidYMid meet">
       <defs>
-        <pattern id="pattern-aspirant-iua" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
+        <pattern id="pattern-aspirant-companion" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)">
           <rect width="6" height="6" fill="#8aa68a" />
           <line x1="0" y1="0" x2="0" y2="6" stroke="#7494c4" stroke-width="2.5" />
         </pattern>

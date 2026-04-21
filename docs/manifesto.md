@@ -33,10 +33,10 @@ Deeper cooperation happens in voluntary domains — currency, defence, climate, 
 
 Each Hestia is governed by a Council of the participating states' ministers, anchored in a permanent seat — its Hestia Capital. The Fiscal Hestia meets in one place; the Green Hestia in another; the Defence Hestia in another. Most Capitals are cities; where the domain warrants, the founding compact may instead designate a vessel or a rotating seat. What is locked is the arrangement, not always the location. Integration has an address. Ministers are accountable. Citizens know where to look.
 
-### Inner Union Associates
+### Companions
 
 Deeply integrated neighbours with free movement and direct constitutional rights. They do not vote on baseline legislation, but vote as full equals in any Hestia they join.
-### Outer Union Associates
+### Compacts
 
 Neighbours aligning at their own pace, with structured cooperation and a clear, dignified path forward.
 
@@ -58,7 +58,7 @@ A state in the digital sovereignty Hestia votes on digital sovereignty laws. A s
 
 To vote in a Hestia, you pay to join it. No subscription, no vote.
 
-This puts every participant on equal footing — Member, Inner Associate, Outer Associate — based on what they actually contribute, not what their passport says. States deepen their commitment by paying for it, not by signing declarations.
+This puts every participant on equal footing — Member, Companion, Compact — based on what they actually contribute, not what their passport says. States deepen their commitment by paying for it, not by signing declarations.
 
 ---
 

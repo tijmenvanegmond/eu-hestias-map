@@ -14,7 +14,7 @@ export interface Standing {
   color: string;
 }
 
-export type StandingKey = 'member' | 'inner-assoc' | 'outer-assoc' | 'strategic' | 'non-eu';
+export type StandingKey = 'member' | 'companion' | 'compact' | 'strategic' | 'non-eu';
 
 export interface CountryData {
   name: string;
@@ -23,7 +23,7 @@ export interface CountryData {
   note: string;
   hestias: Record<string, number>;
   reasons?: Record<string, string>;
-  aspirant?: 'member' | 'iua';
+  aspirant?: 'member' | 'companion';
 }
 
 export interface NonFrameworkEntry {
