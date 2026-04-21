@@ -28,7 +28,7 @@ const standing = computed<Standing | null>(() => {
 
 const aspirantLabel = computed(() => {
   if (!country.value?.aspirant) return null;
-  return country.value.aspirant === 'member' ? 'Aspiring Member' : 'Aspiring Inner Associate';
+  return country.value.aspirant === 'member' ? 'Aspiring Member' : 'Aspiring Companion';
 });
 
 const populationLabel = computed(() => {
@@ -58,7 +58,7 @@ const nonFrameworkData = computed(() => {
   const isSuspended = typeof extra === 'object' && !!extra.suspended;
   const note = noteText
     ? `Outside the Charter framework. ${noteText}`
-    : 'Outside the Charter framework. No current standing as Member, Associate, or Strategic Partner.';
+    : 'Outside the Charter framework. No current standing as Member, Companion, Compact, or Strategic Partner.';
   return {
     name,
     standingLabel: isSuspended ? 'Suspended' : 'Outside framework',
