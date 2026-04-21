@@ -560,12 +560,12 @@ TUN:
 
 DZA:
   name: Algeria
-  standing: outer-assoc
+  standing: strategic
   population: 45.6
   note: Mediterranean partnership, energy-focused
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 0, spring: 0, anchor: 1, lyre: 0, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
   reasons:
-    anchor: Full participant — major Mediterranean coastline; gas pipeline terminus; migration route.
+    anchor: Observer — major Mediterranean coastline; gas pipeline terminus; migration route.
 
 # === STRATEGIC PARTNERS ===
 
@@ -588,7 +588,7 @@ AZE:
   note: Energy cooperation; Caspian gas corridor
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 0, spring: 0, anchor: 0, lyre: 0, krone: 0, pharmacy: 0, beacon: 0, lattice: 1 }
   reasons:
-    lattice: Full participant — Southern Gas Corridor (TAP/TANAP) supplies Caspian gas to the EU grid.
+    lattice: Observer — Southern Gas Corridor (TAP/TANAP) supplies Caspian gas to the EU grid.
 
 # --- Non-European partners ---
 
