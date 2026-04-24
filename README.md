@@ -6,7 +6,7 @@ An interactive map visualizing the **Hearthwork EU Charter** — a conceptual re
 
 ## What is this?
 
-The Hearth Charter replaces the binary in-or-out model of EU membership with a spectrum of four standings — **Member**, **Companion**, **Compact**, and **Strategic Partner** — each participating in a different mix of 16 policy-domain Hestias.
+The Hearth Charter replaces the binary in-or-out model of EU membership with a spectrum of four standings — **Member**, **Companion**, **Accord State**, and **Strategic Partner** — each participating in a different mix of 16 policy-domain Hestias.
 
 The 16 Hestias cover: Fiscal (eurozone), Krone (Nordic currency), Shield (defence), Gate (Schengen), Atlas (space), Anchor (maritime), Bench (judicial), Green (climate), Forge (industry), Loom (digital), Library (education), Spring (water), Pharmacy (health), Beacon (research), Lattice (energy grid), and Lyre (heritage).
 

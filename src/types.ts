@@ -14,7 +14,7 @@ export interface Standing {
   color: string;
 }
 
-export type StandingKey = 'member' | 'companion' | 'compact' | 'strategic' | 'non-eu';
+export type StandingKey = 'member' | 'companion' | 'accord' | 'strategic' | 'non-eu';
 
 export interface CountryData {
   name: string;

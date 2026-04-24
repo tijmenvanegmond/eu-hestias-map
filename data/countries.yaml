@@ -1,5 +1,5 @@
 # Country records keyed by ISO alpha-3.
-# Standings: member | companion | compact | strategic
+# Standings: member | companion | accord | strategic
 # Hestia participation values: 1 (full) | 0 (none)
 # All 16 Hestias must be present for each country; missing keys are treated as 0.
 #
@@ -406,7 +406,7 @@ GRL:
     krone: Partial — uses the Danish krone via the Realm relationship.
     spring: No transboundary river basins; ice sheet melt is a global concern rather than a cooperation domain.
 
-# === COMPACT NATIONS ===
+# === ACCORD STATES ===
 
 UKR:
   name: Ukraine
@@ -429,7 +429,7 @@ UKR:
 
 MDA:
   name: Moldova
-  standing: compact
+  standing: accord
   population: 2.5
   aspirant: companion
   note: Eastern Partnership; on Member track
@@ -441,7 +441,7 @@ MDA:
 
 MNE:
   name: Montenegro
-  standing: compact
+  standing: accord
   population: 0.62
   aspirant: companion
   note: Most advanced Western Balkans candidate
@@ -452,7 +452,7 @@ MNE:
 
 ALB:
   name: Albania
-  standing: compact
+  standing: accord
   population: 2.8
   aspirant: companion
   note: Standard Western Balkans accession path
@@ -462,7 +462,7 @@ ALB:
 
 MKD:
   name: North Macedonia
-  standing: compact
+  standing: accord
   population: 1.8
   aspirant: companion
   note: Long-blocked accession finally moving
@@ -470,7 +470,7 @@ MKD:
 
 SRB:
   name: Serbia
-  standing: compact
+  standing: accord
   population: 6.6
   note: Russia alignment complicates the path
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 1, spring: 1, anchor: 0, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
@@ -481,7 +481,7 @@ SRB:
 
 BIH:
   name: Bosnia and Herzegovina
-  standing: compact
+  standing: accord
   population: 3.2
   aspirant: companion
   note: Constitutional reform precondition
@@ -493,7 +493,7 @@ BIH:
 
 XKX:
   name: Kosovo
-  standing: compact
+  standing: accord
   population: 1.8
   aspirant: companion
   note: >-
@@ -508,7 +508,7 @@ XKX:
 
 GEO:
   name: Georgia
-  standing: compact
+  standing: accord
   population: 3.7
   note: Currently constrained by political backsliding
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
@@ -518,7 +518,7 @@ GEO:
 
 ARM:
   name: Armenia
-  standing: compact
+  standing: accord
   population: 2.8
   note: Pivoting from Russia; early-stage Eastern Partnership
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 1, spring: 0, anchor: 0, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
@@ -528,7 +528,7 @@ ARM:
 
 TUR:
   name: Türkiye
-  standing: compact
+  standing: accord
   population: 85.8
   note: Customs union maintained; long-standing impasse settled
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 1, forge: 0, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 1, lattice: 0 }
@@ -540,7 +540,7 @@ TUR:
 
 MAR:
   name: Morocco
-  standing: compact
+  standing: accord
   population: 37.8
   note: Mediterranean partnership formalised
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
@@ -550,7 +550,7 @@ MAR:
 
 TUN:
   name: Tunisia
-  standing: compact
+  standing: accord
   population: 12.5
   note: Mediterranean partnership formalised
   hestias: { fiscal: 0, shield: 0, gate: 0, loom: 0, green: 0, bench: 0, atlas: 0, forge: 0, library: 1, spring: 0, anchor: 1, lyre: 1, krone: 0, pharmacy: 0, beacon: 0, lattice: 0 }
@@ -603,7 +603,7 @@ USA:
 
 CAN:
   name: Canada
-  standing: compact
+  standing: accord
   population: 41
   note: >-
     CETA framework deepened into structured

@@ -10,7 +10,7 @@
 
   --member: #5475b8;
   --companion: #7494c4;
-  --compact: #8aa68a;
+  --accord: #8aa68a;
   --strategic: #b08d57;
   --non: #d8d4cc;
   --eu-non: #b8b4ac;
@@ -35,7 +35,7 @@
 
   --member: #6b8fd4;
   --companion: #8aaddb;
-  --compact: #7fb87f;
+  --accord: #7fb87f;
   --strategic: #c9a55a;
   --non: #3a3d42;
   --eu-non: #2a2d32;
@@ -606,7 +606,7 @@ h1 {
 
 .standing-member { background: var(--member); }
 .standing-inner { background: var(--companion); color: var(--ink); }
-.standing-outer { background: var(--compact); color: var(--ink); }
+.standing-outer { background: var(--accord); color: var(--ink); }
 .standing-strategic { background: var(--strategic); }
 .standing-non-eu { background: var(--ash); }
 .standing-suspended { background: var(--suspended); }
