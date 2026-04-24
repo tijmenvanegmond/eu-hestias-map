@@ -116,7 +116,7 @@ const capitalMarker = computed(() => {
 });
 
 const fallbackHtml = computed(() => {
-  const byStanding: Record<string, string[]> = { member: [], companion: [], compact: [], strategic: [] };
+  const byStanding: Record<string, string[]> = { member: [], companion: [], accord: [], strategic: [] };
   Object.entries(typedCountryData).forEach(([, data]) => {
     if (byStanding[data.standing]) byStanding[data.standing].push(data.name);
   });

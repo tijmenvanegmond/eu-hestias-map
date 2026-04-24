@@ -6,10 +6,10 @@ companion:
   label: Companion
   className: standing-inner
   color: var(--companion)
-compact:
-  label: Compact
+accord:
+  label: Accord State
   className: standing-outer
-  color: var(--compact)
+  color: var(--accord)
 strategic:
   label: Strategic Partner
   className: standing-strategic

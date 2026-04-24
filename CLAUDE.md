@@ -35,7 +35,7 @@ src/
 data/
   countries.yaml    # 37 country records keyed by ISO alpha-3
   hestias.yaml      # All 16 Hestias with key, label, sub, description, explanation
-  standings.yaml    # Standing definitions (member, companion, compact, strategic)
+  standings.yaml    # Standing definitions (member, companion, accord, strategic)
   iso-mappings.yaml # Numeric ISO → alpha-3 + name fallbacks (e.g. Kosovo)
   non-framework.yaml # Notes for countries outside the Charter (incl. suspended: Russia, Belarus)
 public/
@@ -47,11 +47,11 @@ YAML data files are imported at build time via `@rollup/plugin-yaml` (configured
 ### Data Model
 
 `data/countries.yaml` is the master registry — keyed by ISO alpha-3 code, each entry has:
-- `standing`: `"member"` | `"companion"` | `"compact"` | `"strategic"`
+- `standing`: `"member"` | `"companion"` | `"accord"` | `"strategic"`
 - `note`: policy context string
 - `hestias`: object with 16 participation values: `1` (full) or `0` (none)
 - `reasons` (optional): object mapping Hestia key → explanation string (only notable entries)
-- `aspirant` (optional): `"member"` (Companion aspiring to Member) or `"companion"` (Compact aspiring to Companion) — shown as striped pattern on map
+- `aspirant` (optional): `"member"` (Companion aspiring to Member) or `"companion"` (Accord State aspiring to Companion) — shown as striped pattern on map
 
 The 16 Hestias are: fiscal, krone, shield, gate, atlas, anchor, bench, green, forge, loom, library, spring, pharmacy, beacon, lattice, lyre. All defined in `data/hestias.yaml`.
 
