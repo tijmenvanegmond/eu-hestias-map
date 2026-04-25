@@ -93,6 +93,8 @@ Spillover concerns are handled through the External Reach machinery (Title VII),
 
 Non-participants are no longer merely heard. They are *present* in the room as observers, *voting on reach* where they are Members, *pausing ratification* where they are not, and *offered concrete paths through gravity* where the rule still bites them.
 
+One thing the architecture deliberately does **not** do: it does not add affected non-participant populations to the Hestia's own double-majority denominator (VII.2A ¶8). That would let outsiders veto the inside without paying to vote — a contradiction of *no subscription, no vote*. Reach legitimacy is built through a separate gate (Assembly Ratification), not by inflating the Hestia's threshold. The rule and its reach are two different decisions; they get two different votes.
+
 ### The consent triangle
 
 The architecture above forms three concentric rings of voice, each tied to a different level of commitment:

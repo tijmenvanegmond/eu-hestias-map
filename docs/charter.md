@@ -66,6 +66,7 @@ hereby establish this Charter as the foundation of a European Union composed of 
 | **Modular Parliament** | The European Parliament configured per legislative file |
 | **Hestia Council** | The governing body of a Hestia. By default composed of participating states' ministers, but the founding pact may adopt an alternative structure under VI.2 |
 | **Hestia Capital** | The permanent seat of a Hestia Council, designated by its founding members |
+| **Inner Union** | The free-movement and constitutional-rights zone, comprising Members and Companions. The Inner Union is a spatial term, not a standing |
 
 ---
 
@@ -256,6 +257,7 @@ The cost is named honestly: a Member that refuses permanently pays in democratic
 5. **Authorship.** The Hestia remains the rule's author, expert body, administrator, and signatory. The Assembly's role is confined to authorising the rule's reach; it may not amend the rule's substance. Ratification is recorded as a separate Reach Ratification instrument issued by the Assembly President alongside the Hestia's enacting instrument.
 6. **Amendments.** Subsequent amendments to a ratified External Reach rule require fresh Assembly ratification under this article unless the Independent Legislative Classification Body certifies that the amendment does not alter the rule's reach.
 7. **Promotion preserved.** This article governs the *reach* of a Hestia rule; it does not promote the rule to Assembly Baseline. Promotion remains governed by VI.9 and requires the higher thresholds set there.
+8. **Denominator integrity.** The double-majority threshold (IV.5) for any Hestia file is computed against participating states and their populations only. Affected non-participant populations are not added to the denominator at any stage of Hestia passage, including for files later transmitted under this article. Reach legitimacy is conferred by Assembly Ratification under ¶1–4, by the Companion Suspensive Veto under VII.5, by Standing Review Body consultation under VII.4, and by observer rights under VI.10 — never by enlarging the Hestia's own voting base. The Hestia votes on the rule; the Union ratifies the reach.
 
 **VII.3 — Remedies for Regulatory Gravity.** Where legislation is classified as External Reach, affected non-participating states are entitled to the following remedies. Claims under each remedy are assessed by the Independent Review Commission. None of the remedies confers voting rights in the legislating Hestia.
 
